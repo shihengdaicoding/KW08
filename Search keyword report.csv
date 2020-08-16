@@ -1,0 +1,712 @@
+Search keyword report
+"August 8, 2020 - August 14, 2020"
+Device,Keyword status,Keyword,Campaign,Ad group,Currency code,Status,Max. CPC,Impr.,Impr. (Top) %,Search impr. share,Search top IS,Cost,Clicks,Conversions,Click share,Match type,Search exact match IS,Search lost top IS (rank)
+Computers,Enabled,"""ELD""",M7M2-ELD,p--m-eld-Google,USD,Campaign paused,2.80,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""ELD""",M7M2-ELD,p--m-eld-Google,USD,Campaign paused,2.80,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""ELD""",M7M2-ELD,p--m-eld-Google,USD,Campaign paused,2.80,147,65.28%,< 10%,< 10%,6.32,3,0.00,< 10%,Phrase match, --,> 90%
+Other,Enabled,"""ELD""",M7M2-ELD,p--m-eld-Google,USD,Campaign paused,2.80,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Tablets,Enabled,"""ELD""",M7M2-ELD,p--m-eld-Google,USD,Campaign paused,2.80,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""ELD""",M7M2-ELD,p--c-eld-Google,USD,Campaign paused,3.80,207,38.16%,12.18%,< 10%,7.90,3,0.00,< 10%,Phrase match, --,> 90%
+Other,Enabled,"""ELD""",M7M2-ELD,p--c-eld-Google,USD,Campaign paused,3.80,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""ELD""",M7M2-ELD,p--c-eld-Google,USD,Campaign paused,3.80,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""ELD""",M7M2-ELD,p--c-eld-Google,USD,Campaign paused,3.80,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Tablets,Enabled,"""ELD""",M7M2-ELD,p--c-eld-Google,USD,Campaign paused,3.80,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled, +ELD +TRUCKING,M7M2-ELD,b--c-eld trucking-Google,USD,Campaign paused,21.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +ELD +TRUCKING,M7M2-ELD,b--c-eld trucking-Google,USD,Campaign paused,21.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +ELD +TRUCKING,M7M2-ELD,b--c-eld trucking-Google,USD,Campaign paused,21.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +ELD +TRUCKING,M7M2-ELD,b--c-eld trucking-Google,USD,Campaign paused,21.40,90,54.44%,62.07%,33.79%,34.52,2,0.00,16.53%,Broad match, --,66.21%
+Tablets,Enabled, +ELD +TRUCKING,M7M2-ELD,b--c-eld trucking-Google,USD,Campaign paused,21.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +LOGGING +ELECTRONIC +DEVICE,M7M2-ELD,b--c-logging electronic device-Google,USD,Campaign paused,28.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +LOGGING +ELECTRONIC +DEVICE,M7M2-ELD,b--c-logging electronic device-Google,USD,Campaign paused,28.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +LOGGING +ELECTRONIC +DEVICE,M7M2-ELD,b--c-logging electronic device-Google,USD,Campaign paused,28.20,65,56.92%,75.58%,43.53%,58.28,3,1.00,28.06%,Broad match, --,56.47%
+Other,Enabled, +LOGGING +ELECTRONIC +DEVICE,M7M2-ELD,b--c-logging electronic device-Google,USD,Campaign paused,28.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +LOGGING +ELECTRONIC +DEVICE,M7M2-ELD,b--c-logging electronic device-Google,USD,Campaign paused,28.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled,"""LOG BOOK""",M7M2-ELD,p--c-log book-Google,USD,Campaign paused,5.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""LOG BOOK""",M7M2-ELD,p--c-log book-Google,USD,Campaign paused,5.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""LOG BOOK""",M7M2-ELD,p--c-log book-Google,USD,Campaign paused,5.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""LOG BOOK""",M7M2-ELD,p--c-log book-Google,USD,Campaign paused,5.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""LOG BOOK""",M7M2-ELD,p--c-log book-Google,USD,Campaign paused,5.60,32,56.25%,20.65%,12.41%,15.75,3,1.00,11.34%,Phrase match, --,87.59%
+Other,Enabled, +FLEET +ELD,M7M2-ELD,b--c-fleet eld-Bing,USD,Campaign paused,27.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +FLEET +ELD,M7M2-ELD,b--c-fleet eld-Bing,USD,Campaign paused,27.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +FLEET +ELD,M7M2-ELD,b--c-fleet eld-Bing,USD,Campaign paused,27.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +FLEET +ELD,M7M2-ELD,b--c-fleet eld-Bing,USD,Campaign paused,27.10,16,93.75%,100.00%,93.75%,25.88,1,0.00,51.79%,Broad match, --,6.25%
+Tablets,Enabled, +FLEET +ELD,M7M2-ELD,b--c-fleet eld-Bing,USD,Campaign paused,27.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DRIVER +SAFETY,M7M2-DRIVER,b--m-driver safety-Google,USD,Campaign paused,2.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +DRIVER +SAFETY,M7M2-DRIVER,b--m-driver safety-Google,USD,Campaign paused,2.20,111,91.67%,< 10%,< 10%,8.50,5,0.00,< 10%,Broad match, --,> 90%
+Computers,Enabled, +DRIVER +SAFETY,M7M2-DRIVER,b--m-driver safety-Google,USD,Campaign paused,2.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DRIVER +SAFETY,M7M2-DRIVER,b--m-driver safety-Google,USD,Campaign paused,2.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +DRIVER +SAFETY,M7M2-DRIVER,b--m-driver safety-Google,USD,Campaign paused,2.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +DRIVER +TRACKING +APP,M7M2-DRIVER,b--c-driver tracking app-Google,USD,Campaign paused,8.90,29,82.76%,80.56%,66.67%,6.03,1,0.00,74.09%,Broad match, --,33.33%
+TV screens,Enabled, +DRIVER +TRACKING +APP,M7M2-DRIVER,b--c-driver tracking app-Google,USD,Campaign paused,8.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DRIVER +TRACKING +APP,M7M2-DRIVER,b--c-driver tracking app-Google,USD,Campaign paused,8.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DRIVER +TRACKING +APP,M7M2-DRIVER,b--c-driver tracking app-Google,USD,Campaign paused,8.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +DRIVER +TRACKING +APP,M7M2-DRIVER,b--c-driver tracking app-Google,USD,Campaign paused,8.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +DRIVER +MONITORING,M7M2-DRIVER,b--c-driver monitoring-Google,USD,Campaign paused,7.20,155,70.32%,29.75%,20.92%,27.30,5,0.00,38.55%,Broad match, --,79.08%
+Mobile phones,Enabled, +DRIVER +MONITORING,M7M2-DRIVER,b--c-driver monitoring-Google,USD,Campaign paused,7.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +DRIVER +MONITORING,M7M2-DRIVER,b--c-driver monitoring-Google,USD,Campaign paused,7.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DRIVER +MONITORING,M7M2-DRIVER,b--c-driver monitoring-Google,USD,Campaign paused,7.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DRIVER +MONITORING,M7M2-DRIVER,b--c-driver monitoring-Google,USD,Campaign paused,7.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled,"""DRIVER SAFETY""",M7M2-DRIVER,p--c-driver safety-Google,USD,Campaign paused,17.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Tablets,Enabled,"""DRIVER SAFETY""",M7M2-DRIVER,p--c-driver safety-Google,USD,Campaign paused,17.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""DRIVER SAFETY""",M7M2-DRIVER,p--c-driver safety-Google,USD,Campaign paused,17.70,920,89.78%,60.29%,54.13%,319.04,25,1.00,59.46%,Phrase match, --,45.87%
+Other,Enabled,"""DRIVER SAFETY""",M7M2-DRIVER,p--c-driver safety-Google,USD,Campaign paused,17.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""DRIVER SAFETY""",M7M2-DRIVER,p--c-driver safety-Google,USD,Campaign paused,17.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled, +DRIVER +DISPATCH,M7M2-DRIVER,b--m-driver dispatch-Google,USD,Campaign paused,4.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DRIVER +DISPATCH,M7M2-DRIVER,b--m-driver dispatch-Google,USD,Campaign paused,4.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +DRIVER +DISPATCH,M7M2-DRIVER,b--m-driver dispatch-Google,USD,Campaign paused,4.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +DRIVER +DISPATCH,M7M2-DRIVER,b--m-driver dispatch-Google,USD,Campaign paused,4.10,19,100.00%,35.29%,35.29%,1.18,1,0.00,28.61%,Broad match, --,64.71%
+Tablets,Enabled, +DRIVER +DISPATCH,M7M2-DRIVER,b--m-driver dispatch-Google,USD,Campaign paused,4.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled,[DRIVER MONITORING SYSTEM],M7M2-DRIVER,e--m-driver monitoring system-Google,USD,Campaign paused,5.00,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[DRIVER MONITORING SYSTEM],M7M2-DRIVER,e--m-driver monitoring system-Google,USD,Campaign paused,5.00,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[DRIVER MONITORING SYSTEM],M7M2-DRIVER,e--m-driver monitoring system-Google,USD,Campaign paused,5.00,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[DRIVER MONITORING SYSTEM],M7M2-DRIVER,e--m-driver monitoring system-Google,USD,Campaign paused,5.00,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[DRIVER MONITORING SYSTEM],M7M2-DRIVER,e--m-driver monitoring system-Google,USD,Campaign paused,5.00,1,100.00%,100.00%,100.00%,1.47,1,0.00,62.38%,Exact match, --,0.00%
+TV screens,Enabled, +DRIVER +DISPATCHING,M7M2-DRIVER,b--c-driver dispatching-Google,USD,Campaign paused,10.52,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DRIVER +DISPATCHING,M7M2-DRIVER,b--c-driver dispatching-Google,USD,Campaign paused,10.52,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +DRIVER +DISPATCHING,M7M2-DRIVER,b--c-driver dispatching-Google,USD,Campaign paused,10.52,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DRIVER +DISPATCHING,M7M2-DRIVER,b--c-driver dispatching-Google,USD,Campaign paused,10.52,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +DRIVER +DISPATCHING,M7M2-DRIVER,b--c-driver dispatching-Google,USD,Campaign paused,10.52,22,95.45%,62.86%,60.00%,6.22,2,0.00,63.55%,Broad match, --,40.00%
+TV screens,Enabled, +DRIVER +TRACKING +APP,M7M2-DRIVER,b--m-driver tracking app-Google,USD,Campaign paused,2.00,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +DRIVER +TRACKING +APP,M7M2-DRIVER,b--m-driver tracking app-Google,USD,Campaign paused,2.00,9,88.89%,19.15%,17.02%,1.60,1,0.00,24.72%,Broad match, --,82.98%
+Computers,Enabled, +DRIVER +TRACKING +APP,M7M2-DRIVER,b--m-driver tracking app-Google,USD,Campaign paused,2.00,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DRIVER +TRACKING +APP,M7M2-DRIVER,b--m-driver tracking app-Google,USD,Campaign paused,2.00,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DRIVER +TRACKING +APP,M7M2-DRIVER,b--m-driver tracking app-Google,USD,Campaign paused,2.00,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DRIVER +TRACKING,M7M2-DRIVER,b--c-driver tracking-Google,USD,Campaign paused,10.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +DRIVER +TRACKING,M7M2-DRIVER,b--c-driver tracking-Google,USD,Campaign paused,10.30,194,90.72%,51.05%,46.32%,118.94,15,1.00,67.33%,Broad match, --,53.68%
+Mobile phones,Enabled, +DRIVER +TRACKING,M7M2-DRIVER,b--c-driver tracking-Google,USD,Campaign paused,10.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +DRIVER +TRACKING,M7M2-DRIVER,b--c-driver tracking-Google,USD,Campaign paused,10.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DRIVER +TRACKING,M7M2-DRIVER,b--c-driver tracking-Google,USD,Campaign paused,10.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DRIVER +TRACKER,M7M2-DRIVER,b--c-driver tracker-Google,USD,Campaign paused,9.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +DRIVER +TRACKER,M7M2-DRIVER,b--c-driver tracker-Google,USD,Campaign paused,9.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +DRIVER +TRACKER,M7M2-DRIVER,b--c-driver tracker-Google,USD,Campaign paused,9.80,29,89.66%,49.15%,44.07%,17.93,2,0.00,64.55%,Broad match, --,55.93%
+TV screens,Enabled, +DRIVER +TRACKER,M7M2-DRIVER,b--c-driver tracker-Google,USD,Campaign paused,9.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DRIVER +TRACKER,M7M2-DRIVER,b--c-driver tracker-Google,USD,Campaign paused,9.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DRIVER +TRACKING,M7M2-DRIVER,b--m-driver tracking-Google,USD,Campaign paused,4.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +DRIVER +TRACKING,M7M2-DRIVER,b--m-driver tracking-Google,USD,Campaign paused,4.20,80,86.08%,22.07%,19.26%,9.17,6,0.00,24.67%,Broad match, --,80.74%
+Computers,Enabled, +DRIVER +TRACKING,M7M2-DRIVER,b--m-driver tracking-Google,USD,Campaign paused,4.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DRIVER +TRACKING,M7M2-DRIVER,b--m-driver tracking-Google,USD,Campaign paused,4.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +DRIVER +TRACKING,M7M2-DRIVER,b--m-driver tracking-Google,USD,Campaign paused,4.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DRIVER +MONITORING,M7M2-DRIVER,b--m-driver monitoring-Google,USD,Campaign paused,3.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DRIVER +MONITORING,M7M2-DRIVER,b--m-driver monitoring-Google,USD,Campaign paused,3.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +DRIVER +MONITORING,M7M2-DRIVER,b--m-driver monitoring-Google,USD,Campaign paused,3.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +DRIVER +MONITORING,M7M2-DRIVER,b--m-driver monitoring-Google,USD,Campaign paused,3.60,17,88.24%,17.71%,16.48%,1.08,1,0.00,22.45%,Broad match, --,83.52%
+Computers,Enabled, +DRIVER +MONITORING,M7M2-DRIVER,b--m-driver monitoring-Google,USD,Campaign paused,3.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DRIVER +ROUTING,M7M2-DRIVER,b--c-driver routing-Google,USD,Campaign paused,7.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +DRIVER +ROUTING,M7M2-DRIVER,b--c-driver routing-Google,USD,Campaign paused,7.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +DRIVER +ROUTING,M7M2-DRIVER,b--c-driver routing-Google,USD,Campaign paused,7.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +DRIVER +ROUTING,M7M2-DRIVER,b--c-driver routing-Google,USD,Campaign paused,7.60,42,88.10%,43.75%,38.54%,32.53,5,0.00,42.87%,Broad match, --,61.46%
+Other,Enabled, +DRIVER +ROUTING,M7M2-DRIVER,b--c-driver routing-Google,USD,Campaign paused,7.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +DRIVER +SAFETY,M7M2-DRIVER,b--c-driver safety-Google,USD,Campaign paused,3.70,242,68.18%,14.40%,< 10%,27.58,8,0.00,16.62%,Broad match, --,> 90%
+Tablets,Enabled, +DRIVER +SAFETY,M7M2-DRIVER,b--c-driver safety-Google,USD,Campaign paused,3.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DRIVER +SAFETY,M7M2-DRIVER,b--c-driver safety-Google,USD,Campaign paused,3.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +DRIVER +SAFETY,M7M2-DRIVER,b--c-driver safety-Google,USD,Campaign paused,3.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled,[teletrac navman director],0-D-GO-Brand|Search|US-A,Teletrac-Navman-Director,USD,Campaign paused,34.70,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[teletrac navman director],0-D-GO-Brand|Search|US-A,Teletrac-Navman-Director,USD,Campaign paused,34.70,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[teletrac navman director],0-D-GO-Brand|Search|US-A,Teletrac-Navman-Director,USD,Campaign paused,34.70,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[teletrac navman director],0-D-GO-Brand|Search|US-A,Teletrac-Navman-Director,USD,Campaign paused,34.70,1,100.00%,100.00%,100.00%,0.25,1,0.00,92.73%,Exact match, --,0.00%
+Mobile phones,Enabled,[teletrac navman director],0-D-GO-Brand|Search|US-A,Teletrac-Navman-Director,USD,Campaign paused,34.70,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[teletrac navman director],0-D-GO-Brand|Search|US-A,Core-Brand,USD,Campaign paused,36.22,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[teletrac navman director],0-D-GO-Brand|Search|US-A,Core-Brand,USD,Campaign paused,36.22,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[teletrac navman director],0-D-GO-Brand|Search|US-A,Core-Brand,USD,Campaign paused,36.22,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[teletrac navman director],0-D-GO-Brand|Search|US-A,Core-Brand,USD,Campaign paused,36.22,4,100.00%,100.00%,100.00%,0.24,1,0.00,92.29%,Exact match, --,0.00%
+Tablets,Enabled,[teletrac navman director],0-D-GO-Brand|Search|US-A,Core-Brand,USD,Campaign paused,36.22,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled, +navman +gps,0-D-GO-Brand|Search|US-A,Core-Brand,USD,Campaign paused,40.79,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +navman +gps,0-D-GO-Brand|Search|US-A,Core-Brand,USD,Campaign paused,40.79,10,100.00%,100.00%,100.00%,36.88,1,0.00,89.76%,Broad match, --,0.00%
+Tablets,Enabled, +navman +gps,0-D-GO-Brand|Search|US-A,Core-Brand,USD,Campaign paused,40.79,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +navman +gps,0-D-GO-Brand|Search|US-A,Core-Brand,USD,Campaign paused,40.79,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +navman +gps,0-D-GO-Brand|Search|US-A,Core-Brand,USD,Campaign paused,40.79,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled,[navman gps],0-D-GO-Brand|Search|US-A,Navman-GPS,USD,Campaign paused,43.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[navman gps],0-D-GO-Brand|Search|US-A,Navman-GPS,USD,Campaign paused,43.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[navman gps],0-D-GO-Brand|Search|US-A,Navman-GPS,USD,Campaign paused,43.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[navman gps],0-D-GO-Brand|Search|US-A,Navman-GPS,USD,Campaign paused,43.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[navman gps],0-D-GO-Brand|Search|US-A,Navman-GPS,USD,Campaign paused,43.30,14,100.00%,77.78%,77.78%,1.23,3,0.00,85.02%,Exact match, --,22.22%
+Mobile phones,Enabled,[DASHBOARD CAMERA],M7M2-DASHCAM,e--c-dashboard camera-Google,USD,Campaign paused,11.60,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[DASHBOARD CAMERA],M7M2-DASHCAM,e--c-dashboard camera-Google,USD,Campaign paused,11.60,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[DASHBOARD CAMERA],M7M2-DASHCAM,e--c-dashboard camera-Google,USD,Campaign paused,11.60,200,89.00%,82.99%,80.18%,30.10,5,0.00,54.85%,Exact match, --,19.82%
+Tablets,Enabled,[DASHBOARD CAMERA],M7M2-DASHCAM,e--c-dashboard camera-Google,USD,Campaign paused,11.60,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[DASHBOARD CAMERA],M7M2-DASHCAM,e--c-dashboard camera-Google,USD,Campaign paused,11.60,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled, +FLEET +CAMERA,M7M2-DASHCAM,b--c-fleet camera-Bing,USD,Campaign paused,24.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +FLEET +CAMERA,M7M2-DASHCAM,b--c-fleet camera-Bing,USD,Campaign paused,24.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +FLEET +CAMERA,M7M2-DASHCAM,b--c-fleet camera-Bing,USD,Campaign paused,24.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +FLEET +CAMERA,M7M2-DASHCAM,b--c-fleet camera-Bing,USD,Campaign paused,24.10,10,90.00%,71.43%,69.23%,39.41,2,0.00,35.97%,Broad match, --,30.77%
+Mobile phones,Enabled, +DASHCAM,M7M2-DASHCAM,b--c-dashcam-Google,USD,Campaign paused,12.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +DASHCAM,M7M2-DASHCAM,b--c-dashcam-Google,USD,Campaign paused,12.40,"1,428",78.29%,40.07%,34.52%,330.84,33,0.00,46.60%,Broad match, --,65.48%
+Other,Enabled, +FLEET +CAMERA,M7M2-DASHCAM,b--c-fleet camera-Bing,USD,Campaign paused,24.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +DASHCAM,M7M2-DASHCAM,b--c-dashcam-Google,USD,Campaign paused,12.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DASHCAM,M7M2-DASHCAM,b--c-dashcam-Google,USD,Campaign paused,12.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DASHCAM,M7M2-DASHCAM,b--c-dashcam-Google,USD,Campaign paused,12.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +TRUCKER +DASH +CAMERA,M7M2-DASHCAM,b--c-trucker dash camera-Google,USD,Campaign paused,18.80,14,85.71%,87.50%,80.00%,39.75,3,0.00,48.92%,Broad match, --,20.00%
+TV screens,Enabled, +TRUCKER +DASH +CAMERA,M7M2-DASHCAM,b--c-trucker dash camera-Google,USD,Campaign paused,18.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +TRUCKER +DASH +CAMERA,M7M2-DASHCAM,b--c-trucker dash camera-Google,USD,Campaign paused,18.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +TRUCKER +DASH +CAMERA,M7M2-DASHCAM,b--c-trucker dash camera-Google,USD,Campaign paused,18.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +TRUCKER +DASH +CAMERA,M7M2-DASHCAM,b--c-trucker dash camera-Google,USD,Campaign paused,18.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled,"""DASH CAM""",M7M2-DASHCAM,p--c-dash cam-Google,USD,Campaign paused,7.80,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""DASH CAM""",M7M2-DASHCAM,p--c-dash cam-Google,USD,Campaign paused,7.80,793,82.85%,53.29%,47.30%,146.31,26,0.00,38.74%,Phrase match, --,52.70%
+Other,Enabled,"""DASH CAM""",M7M2-DASHCAM,p--c-dash cam-Google,USD,Campaign paused,7.80,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""DASH CAM""",M7M2-DASHCAM,p--c-dash cam-Google,USD,Campaign paused,7.80,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""DASH CAM""",M7M2-DASHCAM,p--c-dash cam-Google,USD,Campaign paused,7.80,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,[360 DEGREE DASHCAM],M7M2-DASHCAM,e--c-360 degree dashcam-Google,USD,Campaign paused,11.10,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[360 DEGREE DASHCAM],M7M2-DASHCAM,e--c-360 degree dashcam-Google,USD,Campaign paused,11.10,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[360 DEGREE DASHCAM],M7M2-DASHCAM,e--c-360 degree dashcam-Google,USD,Campaign paused,11.10,74,86.49%,97.37%,95.52%,29.28,6,1.00,79.19%,Exact match, --,4.48%
+Mobile phones,Enabled,[360 DEGREE DASHCAM],M7M2-DASHCAM,e--c-360 degree dashcam-Google,USD,Campaign paused,11.10,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[360 DEGREE DASHCAM],M7M2-DASHCAM,e--c-360 degree dashcam-Google,USD,Campaign paused,11.10,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled, +DASHBOARD +CAMERA,M7M2-DASHCAM,b--c-dashboard camera-Google,USD,Campaign paused,15.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +DASHBOARD +CAMERA,M7M2-DASHCAM,b--c-dashboard camera-Google,USD,Campaign paused,15.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +DASHBOARD +CAMERA,M7M2-DASHCAM,b--c-dashboard camera-Google,USD,Campaign paused,15.30,"3,602",79.92%,66.18%,55.99%,1345.51,130,2.00,59.58%,Broad match, --,44.01%
+Mobile phones,Enabled, +DASHBOARD +CAMERA,M7M2-DASHCAM,b--c-dashboard camera-Google,USD,Campaign paused,15.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DASHBOARD +CAMERA,M7M2-DASHCAM,b--c-dashboard camera-Google,USD,Campaign paused,15.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled,"""FLEET CAMERA""",M7M2-DASHCAM,p--c-fleet camera-Google,USD,Campaign paused,56.40,11,100.00%,78.57%,78.57%,28.98,1,0.00,55.21%,Phrase match, --,21.43%
+TV screens,Enabled,"""FLEET CAMERA""",M7M2-DASHCAM,p--c-fleet camera-Google,USD,Campaign paused,56.40,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""FLEET CAMERA""",M7M2-DASHCAM,p--c-fleet camera-Google,USD,Campaign paused,56.40,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Tablets,Enabled,"""FLEET CAMERA""",M7M2-DASHCAM,p--c-fleet camera-Google,USD,Campaign paused,56.40,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""FLEET CAMERA""",M7M2-DASHCAM,p--c-fleet camera-Google,USD,Campaign paused,56.40,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled, +DUAL +DASHBOARD +CAMERA,M7M2-DASHCAM,b--c-dual dashboard camera-Google,USD,Campaign paused,15.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +DUAL +DASHBOARD +CAMERA,M7M2-DASHCAM,b--c-dual dashboard camera-Google,USD,Campaign paused,15.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DUAL +DASHBOARD +CAMERA,M7M2-DASHCAM,b--c-dual dashboard camera-Google,USD,Campaign paused,15.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +DUAL +DASHBOARD +CAMERA,M7M2-DASHCAM,b--c-dual dashboard camera-Google,USD,Campaign paused,15.90,387,78.81%,77.71%,66.02%,127.89,12,0.00,70.57%,Broad match, --,33.98%
+TV screens,Enabled, +DUAL +DASHBOARD +CAMERA,M7M2-DASHCAM,b--c-dual dashboard camera-Google,USD,Campaign paused,15.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +FLEET +CAMERA,M7M2-DASHCAM,b--m-fleet camera-Google,USD,Campaign paused,21.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +FLEET +CAMERA,M7M2-DASHCAM,b--m-fleet camera-Google,USD,Campaign paused,21.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +FLEET +CAMERA,M7M2-DASHCAM,b--m-fleet camera-Google,USD,Campaign paused,21.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +FLEET +CAMERA,M7M2-DASHCAM,b--m-fleet camera-Google,USD,Campaign paused,21.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +FLEET +CAMERA,M7M2-DASHCAM,b--m-fleet camera-Google,USD,Campaign paused,21.40,12,91.67%,80.00%,73.33%,18.83,2,0.00,65.16%,Broad match, --,26.67%
+Computers,Enabled, +FLEET +DASH +CAM,M7M2-DASHCAM,b--m-fleet dash cam-Google,USD,Campaign paused,28.50,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +FLEET +DASH +CAM,M7M2-DASHCAM,b--m-fleet dash cam-Google,USD,Campaign paused,28.50,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +FLEET +DASH +CAM,M7M2-DASHCAM,b--m-fleet dash cam-Google,USD,Campaign paused,28.50,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +FLEET +DASH +CAM,M7M2-DASHCAM,b--m-fleet dash cam-Google,USD,Campaign paused,28.50,5,80.00%,83.33%,80.00%,26.53,1,0.00,55.11%,Broad match, --,20.00%
+Tablets,Enabled, +FLEET +DASH +CAM,M7M2-DASHCAM,b--m-fleet dash cam-Google,USD,Campaign paused,28.50,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled,[TELETRAC NAVMAN],M7M2-BRAND,e--m-teletrac navman-Google,USD,Eligible,2.10,46,100.00%,97.87%,97.87%,13.58,11,0.00,78.04%,Exact match, --,2.13%
+TV screens,Enabled,[TELETRAC NAVMAN],M7M2-BRAND,e--m-teletrac navman-Google,USD,Eligible,2.10,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TELETRAC NAVMAN],M7M2-BRAND,e--m-teletrac navman-Google,USD,Eligible,2.10,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TELETRAC NAVMAN],M7M2-BRAND,e--m-teletrac navman-Google,USD,Eligible,2.10,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TELETRAC NAVMAN],M7M2-BRAND,e--m-teletrac navman-Google,USD,Eligible,2.10,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TELETRAC NAVMAN DIRECTOR],M7M2-BRAND,e--c-teletrac navman director-Google,USD,Eligible,1.40,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[TELETRAC NAVMAN DIRECTOR],M7M2-BRAND,e--c-teletrac navman director-Google,USD,Eligible,1.40,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TELETRAC NAVMAN DIRECTOR],M7M2-BRAND,e--c-teletrac navman director-Google,USD,Eligible,1.40,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TELETRAC NAVMAN DIRECTOR],M7M2-BRAND,e--c-teletrac navman director-Google,USD,Eligible,1.40,7,85.71%,58.33%,50.00%,1.15,1,0.00,52.20%,Exact match, --,50.00%
+TV screens,Enabled,[TELETRAC NAVMAN DIRECTOR],M7M2-BRAND,e--c-teletrac navman director-Google,USD,Eligible,1.40,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TELETRAC],M7M2-BRAND,e--m-teletrac-Google,USD,Eligible,3.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[TELETRAC],M7M2-BRAND,e--m-teletrac-Google,USD,Eligible,3.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TELETRAC],M7M2-BRAND,e--m-teletrac-Google,USD,Eligible,3.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[TELETRAC],M7M2-BRAND,e--m-teletrac-Google,USD,Eligible,3.30,30,100.00%,96.77%,96.77%,0.30,1,0.00,77.74%,Exact match, --,3.23%
+Other,Enabled,[TELETRAC],M7M2-BRAND,e--m-teletrac-Google,USD,Eligible,3.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[TELETRACK],M7M2-BRAND,e--c-teletrack-Google,USD,Eligible,8.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[TELETRACK],M7M2-BRAND,e--c-teletrack-Google,USD,Eligible,8.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TELETRACK],M7M2-BRAND,e--c-teletrack-Google,USD,Eligible,8.30,264,98.11%,42.58%,41.77%,56.73,8,0.00,38.26%,Exact match, --,58.23%
+Tablets,Enabled,[TELETRACK],M7M2-BRAND,e--c-teletrack-Google,USD,Eligible,8.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TELETRACK],M7M2-BRAND,e--c-teletrack-Google,USD,Eligible,8.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,"""TELETRAC""",M7M2-BRAND,p--c-teletrac-Google,USD,Eligible,5.10,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""TELETRAC""",M7M2-BRAND,p--c-teletrac-Google,USD,Eligible,5.10,4,75.00%,100.00%,75.00%,5.01,1,0.00,39.09%,Phrase match, --,25.00%
+TV screens,Enabled,"""TELETRAC""",M7M2-BRAND,p--c-teletrac-Google,USD,Eligible,5.10,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""TELETRAC""",M7M2-BRAND,p--c-teletrac-Google,USD,Eligible,5.10,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""TELETRAC""",M7M2-BRAND,p--c-teletrac-Google,USD,Eligible,5.10,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled, +TELETRAC,M7M2-BRAND,b--c-teletrac-Google,USD,Eligible,9.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +TELETRAC,M7M2-BRAND,b--c-teletrac-Google,USD,Eligible,9.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +TELETRAC,M7M2-BRAND,b--c-teletrac-Google,USD,Eligible,9.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +TELETRAC,M7M2-BRAND,b--c-teletrac-Google,USD,Eligible,9.80,3,100.00%,100.00%,100.00%,2.49,2,0.00,87.40%,Broad match, --,0.00%
+Other,Enabled, +TELETRAC,M7M2-BRAND,b--c-teletrac-Google,USD,Eligible,9.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled,[TELETRAC],M7M2-BRAND,e--c-teletrac-Google,USD,Eligible,4.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TELETRAC],M7M2-BRAND,e--c-teletrac-Google,USD,Eligible,4.50,36,97.22%,97.30%,94.59%,5.41,3,0.00,84.30%,Exact match, --,5.41%
+TV screens,Enabled,[TELETRAC],M7M2-BRAND,e--c-teletrac-Google,USD,Eligible,4.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TELETRAC],M7M2-BRAND,e--c-teletrac-Google,USD,Eligible,4.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TELETRAC],M7M2-BRAND,e--c-teletrac-Google,USD,Eligible,4.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TELETRAC NAVMAN],M7M2-BRAND,e--t-teletrac navman-Google,USD,Eligible,1.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TELETRAC NAVMAN],M7M2-BRAND,e--t-teletrac navman-Google,USD,Eligible,1.80,4,100.00%,100.00%,100.00%,1.63,1,0.00,57.57%,Exact match, --,0.00%
+Mobile phones,Enabled,[TELETRAC NAVMAN],M7M2-BRAND,e--t-teletrac navman-Google,USD,Eligible,1.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[TELETRAC NAVMAN],M7M2-BRAND,e--t-teletrac navman-Google,USD,Eligible,1.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TELETRAC NAVMAN],M7M2-BRAND,e--t-teletrac navman-Google,USD,Eligible,1.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[EQUIPMENT GPS TRACKING SYSTEM],M7M2-CONSTRUCTION,e--c-equipment gps tracking system-Google,USD,Campaign paused,17.70,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[EQUIPMENT GPS TRACKING SYSTEM],M7M2-CONSTRUCTION,e--c-equipment gps tracking system-Google,USD,Campaign paused,17.70,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[EQUIPMENT GPS TRACKING SYSTEM],M7M2-CONSTRUCTION,e--c-equipment gps tracking system-Google,USD,Campaign paused,17.70,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[EQUIPMENT GPS TRACKING SYSTEM],M7M2-CONSTRUCTION,e--c-equipment gps tracking system-Google,USD,Campaign paused,17.70,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[EQUIPMENT GPS TRACKING SYSTEM],M7M2-CONSTRUCTION,e--c-equipment gps tracking system-Google,USD,Campaign paused,17.70,4,50.00%,100.00%,50.00%,12.87,1,0.00,52.00%,Exact match, --,50.00%
+Mobile phones,Enabled,"""EQUIPMENT TRACKING APP""",M7M2-CONSTRUCTION,p--c-equipment tracking app-Bing,USD,Campaign paused,32.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""EQUIPMENT TRACKING APP""",M7M2-CONSTRUCTION,p--c-equipment tracking app-Bing,USD,Campaign paused,32.60,4,100.00%,66.67%,66.67%,52.43,2,1.00,92.22%,Phrase match, --,33.33%
+Other,Enabled,"""EQUIPMENT TRACKING APP""",M7M2-CONSTRUCTION,p--c-equipment tracking app-Bing,USD,Campaign paused,32.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""EQUIPMENT TRACKING APP""",M7M2-CONSTRUCTION,p--c-equipment tracking app-Bing,USD,Campaign paused,32.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Tablets,Enabled,"""EQUIPMENT TRACKING APP""",M7M2-CONSTRUCTION,p--c-equipment tracking app-Bing,USD,Campaign paused,32.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled, +EQUIPMENT +MANAGEMENT,M7M2-CONSTRUCTION,b--c-equipment management-Google,USD,Campaign paused,3.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +EQUIPMENT +MANAGEMENT,M7M2-CONSTRUCTION,b--c-equipment management-Google,USD,Campaign paused,3.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +EQUIPMENT +MANAGEMENT,M7M2-CONSTRUCTION,b--c-equipment management-Google,USD,Campaign paused,3.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +EQUIPMENT +MANAGEMENT,M7M2-CONSTRUCTION,b--c-equipment management-Google,USD,Campaign paused,3.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +EQUIPMENT +MANAGEMENT,M7M2-CONSTRUCTION,b--c-equipment management-Google,USD,Campaign paused,3.30,31,48.39%,13.08%,< 10%,3.29,1,0.00,< 10%,Broad match, --,> 90%
+Computers,Enabled,[EQUIPMENT TRACKING SOFTWARE],M7M2-CONSTRUCTION,e--c-equipment tracking software-Bing,USD,Campaign paused,21.20,7,71.43%,46.67%,33.33%,13.67,1,0.00,36.43%,Exact match, --,66.67%
+TV screens,Enabled,[EQUIPMENT TRACKING SOFTWARE],M7M2-CONSTRUCTION,e--c-equipment tracking software-Bing,USD,Campaign paused,21.20,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[EQUIPMENT TRACKING SOFTWARE],M7M2-CONSTRUCTION,e--c-equipment tracking software-Bing,USD,Campaign paused,21.20,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[EQUIPMENT TRACKING SOFTWARE],M7M2-CONSTRUCTION,e--c-equipment tracking software-Bing,USD,Campaign paused,21.20,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[EQUIPMENT TRACKING SOFTWARE],M7M2-CONSTRUCTION,e--c-equipment tracking software-Bing,USD,Campaign paused,21.20,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[EQUIPMENT TRACKER],M7M2-CONSTRUCTION,e--c-equipment tracker-Google,USD,Campaign paused,28.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[EQUIPMENT TRACKER],M7M2-CONSTRUCTION,e--c-equipment tracker-Google,USD,Campaign paused,28.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[EQUIPMENT TRACKER],M7M2-CONSTRUCTION,e--c-equipment tracker-Google,USD,Campaign paused,28.80,14,78.57%,100.00%,84.62%,56.10,2,0.00,52.20%,Exact match, --,15.38%
+TV screens,Enabled,[EQUIPMENT TRACKER],M7M2-CONSTRUCTION,e--c-equipment tracker-Google,USD,Campaign paused,28.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[EQUIPMENT TRACKER],M7M2-CONSTRUCTION,e--c-equipment tracker-Google,USD,Campaign paused,28.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled, +EQUIPMENT +TRACKING +DEVICE,M7M2-CONSTRUCTION,b--c-equipment tracking device-Bing,USD,Campaign paused,13.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +EQUIPMENT +TRACKING +DEVICE,M7M2-CONSTRUCTION,b--c-equipment tracking device-Bing,USD,Campaign paused,13.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +EQUIPMENT +TRACKING +DEVICE,M7M2-CONSTRUCTION,b--c-equipment tracking device-Bing,USD,Campaign paused,13.20,8,37.50%,61.54%,23.08%,25.16,2,0.00,26.22%,Broad match, --,76.92%
+TV screens,Enabled, +EQUIPMENT +TRACKING +DEVICE,M7M2-CONSTRUCTION,b--c-equipment tracking device-Bing,USD,Campaign paused,13.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +EQUIPMENT +TRACKING +DEVICE,M7M2-CONSTRUCTION,b--c-equipment tracking device-Bing,USD,Campaign paused,13.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +ASSET +LOCATION,M7M2-CONSTRUCTION,b--c-asset location-Google,USD,Campaign paused,14.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +ASSET +LOCATION,M7M2-CONSTRUCTION,b--c-asset location-Google,USD,Campaign paused,14.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +ASSET +LOCATION,M7M2-CONSTRUCTION,b--c-asset location-Google,USD,Campaign paused,14.80,71,76.06%,43.03%,32.73%,39.36,3,0.00,49.70%,Broad match, --,67.27%
+TV screens,Enabled, +ASSET +LOCATION,M7M2-CONSTRUCTION,b--c-asset location-Google,USD,Campaign paused,14.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +ASSET +LOCATION,M7M2-CONSTRUCTION,b--c-asset location-Google,USD,Campaign paused,14.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +DRIVER +SAFETY,M7M2-DRIVER,b--c-driver safety-Google,USD,Campaign paused,3.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +FLEET +MANAGEMENT +SERVICES,M7M2-FLEET,b--c-fleet management services-Google,USD,Campaign paused,20.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +FLEET +MANAGEMENT +SERVICES,M7M2-FLEET,b--c-fleet management services-Google,USD,Campaign paused,20.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +FLEET +MANAGEMENT +SERVICES,M7M2-FLEET,b--c-fleet management services-Google,USD,Campaign paused,20.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +FLEET +MANAGEMENT +SERVICES,M7M2-FLEET,b--c-fleet management services-Google,USD,Campaign paused,20.70,19,68.42%,54.29%,37.14%,20.35,1,0.00,52.63%,Broad match, --,62.86%
+TV screens,Enabled, +FLEET +MANAGEMENT +SERVICES,M7M2-FLEET,b--c-fleet management services-Google,USD,Campaign paused,20.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled,[FLEET MANAGEMENT SYSTEM],M7M2-FLEET,e--c-fleet management system-Google,USD,Campaign paused,42.40,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[FLEET MANAGEMENT SYSTEM],M7M2-FLEET,e--c-fleet management system-Google,USD,Campaign paused,42.40,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[FLEET MANAGEMENT SYSTEM],M7M2-FLEET,e--c-fleet management system-Google,USD,Campaign paused,42.40,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[FLEET MANAGEMENT SYSTEM],M7M2-FLEET,e--c-fleet management system-Google,USD,Campaign paused,42.40,23,69.57%,51.11%,35.56%,10.56,1,1.00,35.96%,Exact match, --,64.44%
+Other,Enabled,[FLEET MANAGEMENT SYSTEM],M7M2-FLEET,e--c-fleet management system-Google,USD,Campaign paused,42.40,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled, +GPS +FLEET +TRACKER,M7M2-FLEET,b--c-gps fleet tracker-Google,USD,Campaign paused,35.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +GPS +FLEET +TRACKER,M7M2-FLEET,b--c-gps fleet tracker-Google,USD,Campaign paused,35.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +GPS +FLEET +TRACKER,M7M2-FLEET,b--c-gps fleet tracker-Google,USD,Campaign paused,35.30,20,60.00%,64.52%,40.00%,12.66,1,0.00,18.24%,Broad match, --,60.00%
+Other,Enabled, +GPS +FLEET +TRACKER,M7M2-FLEET,b--c-gps fleet tracker-Google,USD,Campaign paused,35.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +GPS +FLEET +TRACKER,M7M2-FLEET,b--c-gps fleet tracker-Google,USD,Campaign paused,35.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled,"""FLEET MANAGEMENT""",M7M2-FLEET,p--c-fleet management-Bing,USD,Campaign paused,10.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""FLEET MANAGEMENT""",M7M2-FLEET,p--c-fleet management-Bing,USD,Campaign paused,10.60,372,63.98%,28.88%,18.48%,62.10,6,0.00,11.91%,Phrase match, --,81.52%
+TV screens,Enabled,"""FLEET MANAGEMENT""",M7M2-FLEET,p--c-fleet management-Bing,USD,Campaign paused,10.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""FLEET MANAGEMENT""",M7M2-FLEET,p--c-fleet management-Bing,USD,Campaign paused,10.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""FLEET MANAGEMENT""",M7M2-FLEET,p--c-fleet management-Bing,USD,Campaign paused,10.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,[GPS FLEET TRACKING],M7M2-FLEET,e--c-gps fleet tracking-Google,USD,Campaign paused,37.50,10,70.00%,50.00%,35.00%,66.42,2,0.00,26.29%,Exact match, --,65.00%
+Other,Enabled,[GPS FLEET TRACKING],M7M2-FLEET,e--c-gps fleet tracking-Google,USD,Campaign paused,37.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[GPS FLEET TRACKING],M7M2-FLEET,e--c-gps fleet tracking-Google,USD,Campaign paused,37.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[GPS FLEET TRACKING],M7M2-FLEET,e--c-gps fleet tracking-Google,USD,Campaign paused,37.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[GPS FLEET TRACKING],M7M2-FLEET,e--c-gps fleet tracking-Google,USD,Campaign paused,37.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,"""FLEET MANAGEMENT SOFTWARE""",M7M2-FLEET,p--c-fleet management software-Google,USD,Campaign paused,39.00,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Tablets,Enabled,"""FLEET MANAGEMENT SOFTWARE""",M7M2-FLEET,p--c-fleet management software-Google,USD,Campaign paused,39.00,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""FLEET MANAGEMENT SOFTWARE""",M7M2-FLEET,p--c-fleet management software-Google,USD,Campaign paused,39.00,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""FLEET MANAGEMENT SOFTWARE""",M7M2-FLEET,p--c-fleet management software-Google,USD,Campaign paused,39.00,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""FLEET MANAGEMENT SOFTWARE""",M7M2-FLEET,p--c-fleet management software-Google,USD,Campaign paused,39.00,56,64.29%,61.54%,39.56%,8.13,1,0.00,25.22%,Phrase match, --,60.44%
+Other,Enabled,[FLEET MANAGEMENT SERVICES],M7M2-FLEET,e--c-fleet management services-Bing,USD,Campaign paused,23.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[FLEET MANAGEMENT SERVICES],M7M2-FLEET,e--c-fleet management services-Bing,USD,Campaign paused,23.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[FLEET MANAGEMENT SERVICES],M7M2-FLEET,e--c-fleet management services-Bing,USD,Campaign paused,23.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[FLEET MANAGEMENT SERVICES],M7M2-FLEET,e--c-fleet management services-Bing,USD,Campaign paused,23.90,33,78.79%,73.33%,57.78%,42.99,2,0.00,34.61%,Exact match, --,42.22%
+Tablets,Enabled,[FLEET MANAGEMENT SERVICES],M7M2-FLEET,e--c-fleet management services-Bing,USD,Campaign paused,23.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled, +FLEET +ROUTE,M7M2-FLEET,b--c-fleet route-Google,USD,Campaign paused,28.60,10,90.00%,71.43%,64.29%,5.09,1,0.00,71.55%,Broad match, --,35.71%
+TV screens,Enabled, +FLEET +ROUTE,M7M2-FLEET,b--c-fleet route-Google,USD,Campaign paused,28.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +FLEET +ROUTE,M7M2-FLEET,b--c-fleet route-Google,USD,Campaign paused,28.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +FLEET +ROUTE,M7M2-FLEET,b--c-fleet route-Google,USD,Campaign paused,28.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +FLEET +ROUTE,M7M2-FLEET,b--c-fleet route-Google,USD,Campaign paused,28.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled,[FLEET TRACKING],M7M2-FLEET,e--c-fleet tracking-Google,USD,Campaign paused,37.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[FLEET TRACKING],M7M2-FLEET,e--c-fleet tracking-Google,USD,Campaign paused,37.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[FLEET TRACKING],M7M2-FLEET,e--c-fleet tracking-Google,USD,Campaign paused,37.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[FLEET TRACKING],M7M2-FLEET,e--c-fleet tracking-Google,USD,Campaign paused,37.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[FLEET TRACKING],M7M2-FLEET,e--c-fleet tracking-Google,USD,Campaign paused,37.50,13,69.23%,24.07%,16.67%,36.84,1,0.00,10.29%,Exact match, --,83.33%
+Computers,Enabled, +FLEET +TRACKING,M7M2-FLEET,b--c-fleet tracking-Google,USD,Campaign paused,30.00,162,91.98%,70.43%,64.78%,26.53,1,0.00,26.96%,Broad match, --,35.22%
+Tablets,Enabled, +FLEET +TRACKING,M7M2-FLEET,b--c-fleet tracking-Google,USD,Campaign paused,30.00,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +FLEET +TRACKING,M7M2-FLEET,b--c-fleet tracking-Google,USD,Campaign paused,30.00,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +FLEET +TRACKING,M7M2-FLEET,b--c-fleet tracking-Google,USD,Campaign paused,30.00,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +FLEET +TRACKING,M7M2-FLEET,b--c-fleet tracking-Google,USD,Campaign paused,30.00,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +FLEET +TRACKER,M7M2-FLEET,b--c-fleet tracker-Google,USD,Campaign paused,30.60,66,81.82%,44.00%,36.24%,24.83,1,1.00,34.30%,Broad match, --,63.76%
+TV screens,Enabled, +FLEET +TRACKER,M7M2-FLEET,b--c-fleet tracker-Google,USD,Campaign paused,30.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +FLEET +TRACKER,M7M2-FLEET,b--c-fleet tracker-Google,USD,Campaign paused,30.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +FLEET +TRACKER,M7M2-FLEET,b--c-fleet tracker-Google,USD,Campaign paused,30.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +FLEET +TRACKER,M7M2-FLEET,b--c-fleet tracker-Google,USD,Campaign paused,30.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled,[TRAILER TRACKING DEVICE],M7M2-OTHERS,e--c-trailer tracking device-Google,USD,Campaign paused,41.80,15,86.67%,83.33%,76.47%,122.93,3,0.00,81.59%,Exact match, --,23.53%
+Other,Enabled,[TRAILER TRACKING DEVICE],M7M2-OTHERS,e--c-trailer tracking device-Google,USD,Campaign paused,41.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[TRAILER TRACKING DEVICE],M7M2-OTHERS,e--c-trailer tracking device-Google,USD,Campaign paused,41.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TRAILER TRACKING DEVICE],M7M2-OTHERS,e--c-trailer tracking device-Google,USD,Campaign paused,41.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[TRAILER TRACKING DEVICE],M7M2-OTHERS,e--c-trailer tracking device-Google,USD,Campaign paused,41.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[TRAILER TRACKER DEVICE],M7M2-OTHERS,e--c-trailer tracker device-Google,USD,Campaign paused,62.10,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TRAILER TRACKER DEVICE],M7M2-OTHERS,e--c-trailer tracker device-Google,USD,Campaign paused,62.10,25,92.00%,92.59%,88.46%,119.66,2,0.00,61.97%,Exact match, --,11.54%
+Mobile phones,Enabled,[TRAILER TRACKER DEVICE],M7M2-OTHERS,e--c-trailer tracker device-Google,USD,Campaign paused,62.10,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TRAILER TRACKER DEVICE],M7M2-OTHERS,e--c-trailer tracker device-Google,USD,Campaign paused,62.10,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TRAILER TRACKER DEVICE],M7M2-OTHERS,e--c-trailer tracker device-Google,USD,Campaign paused,62.10,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled, +TRAILER +GPS,M7M2-OTHERS,b--c-trailer gps-Google,USD,Campaign paused,11.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +TRAILER +GPS,M7M2-OTHERS,b--c-trailer gps-Google,USD,Campaign paused,11.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +TRAILER +GPS,M7M2-OTHERS,b--c-trailer gps-Google,USD,Campaign paused,11.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +TRAILER +GPS,M7M2-OTHERS,b--c-trailer gps-Google,USD,Campaign paused,11.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +TRAILER +GPS,M7M2-OTHERS,b--c-trailer gps-Google,USD,Campaign paused,11.70,53,58.49%,60.92%,36.47%,36.79,4,0.00,27.83%,Broad match, --,63.53%
+Computers,Enabled, +DISPATCH +SOFTWARE,M7M2-OTHERS,b--m-dispatch software-Google,USD,Campaign paused,19.32,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +DISPATCH +SOFTWARE,M7M2-OTHERS,b--m-dispatch software-Google,USD,Campaign paused,19.32,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DISPATCH +SOFTWARE,M7M2-OTHERS,b--m-dispatch software-Google,USD,Campaign paused,19.32,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DISPATCH +SOFTWARE,M7M2-OTHERS,b--m-dispatch software-Google,USD,Campaign paused,19.32,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +DISPATCH +SOFTWARE,M7M2-OTHERS,b--m-dispatch software-Google,USD,Campaign paused,19.32,74,61.97%,50.71%,32.35%,23.12,2,0.00,19.54%,Broad match, --,67.65%
+Mobile phones,Enabled, +ROUTING +SOFTWARE,M7M2-OTHERS,b--c-routing software-Google,USD,Campaign paused,5.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +ROUTING +SOFTWARE,M7M2-OTHERS,b--c-routing software-Google,USD,Campaign paused,5.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +ROUTING +SOFTWARE,M7M2-OTHERS,b--c-routing software-Google,USD,Campaign paused,5.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +ROUTING +SOFTWARE,M7M2-OTHERS,b--c-routing software-Google,USD,Campaign paused,5.30,65,50.00%,19.05%,< 10%,14.05,3,0.00,11.57%,Broad match, --,> 90%
+Other,Enabled, +ROUTING +SOFTWARE,M7M2-OTHERS,b--c-routing software-Google,USD,Campaign paused,5.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled,[TRAILER TRACKING DEVICE],M7M2-OTHERS,e--m-trailer tracking device-Google,USD,Campaign paused,33.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[TRAILER TRACKING DEVICE],M7M2-OTHERS,e--m-trailer tracking device-Google,USD,Campaign paused,33.30,51,86.27%,85.00%,83.02%,130.53,6,0.00,54.72%,Exact match, --,16.98%
+Computers,Enabled,[TRAILER TRACKING DEVICE],M7M2-OTHERS,e--m-trailer tracking device-Google,USD,Campaign paused,33.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TRAILER TRACKING DEVICE],M7M2-OTHERS,e--m-trailer tracking device-Google,USD,Campaign paused,33.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TRAILER TRACKING DEVICE],M7M2-OTHERS,e--m-trailer tracking device-Google,USD,Campaign paused,33.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[TELEMATICS],M7M2-OTHERS,e--c-telematics-Google,USD,Campaign paused,9.70,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TELEMATICS],M7M2-OTHERS,e--c-telematics-Google,USD,Campaign paused,9.70,63,58.73%,19.15%,11.25%,9.64,1,0.00,< 10%,Exact match, --,88.75%
+Tablets,Enabled,[TELEMATICS],M7M2-OTHERS,e--c-telematics-Google,USD,Campaign paused,9.70,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TELEMATICS],M7M2-OTHERS,e--c-telematics-Google,USD,Campaign paused,9.70,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[TELEMATICS],M7M2-OTHERS,e--c-telematics-Google,USD,Campaign paused,9.70,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled, +TRAILER +GPS,M7M2-OTHERS,b--m-trailer gps-Google,USD,Campaign paused,6.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +TRAILER +GPS,M7M2-OTHERS,b--m-trailer gps-Google,USD,Campaign paused,6.80,71,75.71%,60.34%,49.07%,13.44,4,0.00,35.64%,Broad match, --,50.93%
+Computers,Enabled, +TRAILER +GPS,M7M2-OTHERS,b--m-trailer gps-Google,USD,Campaign paused,6.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +TRAILER +GPS,M7M2-OTHERS,b--m-trailer gps-Google,USD,Campaign paused,6.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +TRAILER +GPS,M7M2-OTHERS,b--m-trailer gps-Google,USD,Campaign paused,6.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +DISPATCH +SOFTWARE,M7M2-OTHERS,b--c-dispatch software-Google,USD,Campaign paused,22.89,133,62.41%,58.33%,36.40%,22.72,1,0.00,25.28%,Broad match, --,63.60%
+Mobile phones,Enabled, +DISPATCH +SOFTWARE,M7M2-OTHERS,b--c-dispatch software-Google,USD,Campaign paused,22.89,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DISPATCH +SOFTWARE,M7M2-OTHERS,b--c-dispatch software-Google,USD,Campaign paused,22.89,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DISPATCH +SOFTWARE,M7M2-OTHERS,b--c-dispatch software-Google,USD,Campaign paused,22.89,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +DISPATCH +SOFTWARE,M7M2-OTHERS,b--c-dispatch software-Google,USD,Campaign paused,22.89,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +TRAILER +MONITORING +SYSTEM,M7M2-OTHERS,b--c-trailer monitoring system-Google,USD,Campaign paused,10.50,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +TRAILER +MONITORING +SYSTEM,M7M2-OTHERS,b--c-trailer monitoring system-Google,USD,Campaign paused,10.50,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +TRAILER +MONITORING +SYSTEM,M7M2-OTHERS,b--c-trailer monitoring system-Google,USD,Campaign paused,10.50,67,85.07%,85.90%,73.08%,59.96,10,0.00,83.58%,Broad match, --,26.92%
+Tablets,Enabled, +TRAILER +MONITORING +SYSTEM,M7M2-OTHERS,b--c-trailer monitoring system-Google,USD,Campaign paused,10.50,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +TRAILER +MONITORING +SYSTEM,M7M2-OTHERS,b--c-trailer monitoring system-Google,USD,Campaign paused,10.50,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled,"""TRAILER TRACKER""",M7M2-OTHERS,p--c-trailer tracker-Google,USD,Campaign paused,18.00,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""TRAILER TRACKER""",M7M2-OTHERS,p--c-trailer tracker-Google,USD,Campaign paused,18.00,87,78.16%,79.09%,64.15%,32.07,2,0.00,39.46%,Phrase match, --,35.85%
+Tablets,Enabled,"""TRAILER TRACKER""",M7M2-OTHERS,p--c-trailer tracker-Google,USD,Campaign paused,18.00,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""TRAILER TRACKER""",M7M2-OTHERS,p--c-trailer tracker-Google,USD,Campaign paused,18.00,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""TRAILER TRACKER""",M7M2-OTHERS,p--c-trailer tracker-Google,USD,Campaign paused,18.00,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled, +VAN +TRACKER +SYSTEM,M7M2-OTHERS,b--m-van tracker system-Google,USD,Campaign paused,21.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +VAN +TRACKER +SYSTEM,M7M2-OTHERS,b--m-van tracker system-Google,USD,Campaign paused,21.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +VAN +TRACKER +SYSTEM,M7M2-OTHERS,b--m-van tracker system-Google,USD,Campaign paused,21.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +VAN +TRACKER +SYSTEM,M7M2-OTHERS,b--m-van tracker system-Google,USD,Campaign paused,21.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +VAN +TRACKER +SYSTEM,M7M2-OTHERS,b--m-van tracker system-Google,USD,Campaign paused,21.70,2,100.00%,50.00%,50.00%,2.21,1,0.00,86.35%,Broad match, --,50.00%
+Tablets,Enabled, +TRAILER +TRACKING +DEVICE,M7M2-OTHERS,b--m-trailer tracking device-Google,USD,Campaign paused,25.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +TRAILER +TRACKING +DEVICE,M7M2-OTHERS,b--m-trailer tracking device-Google,USD,Campaign paused,25.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +TRAILER +TRACKING +DEVICE,M7M2-OTHERS,b--m-trailer tracking device-Google,USD,Campaign paused,25.20,13,92.31%,86.67%,92.31%,8.07,1,0.00,50.93%,Broad match, --,7.69%
+Other,Enabled, +TRAILER +TRACKING +DEVICE,M7M2-OTHERS,b--m-trailer tracking device-Google,USD,Campaign paused,25.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +TRAILER +TRACKING +DEVICE,M7M2-OTHERS,b--m-trailer tracking device-Google,USD,Campaign paused,25.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled,[DISPATCH SOFTWARE],M7M2-OTHERS,e--c-dispatch software-Google,USD,Campaign paused,26.68,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[DISPATCH SOFTWARE],M7M2-OTHERS,e--c-dispatch software-Google,USD,Campaign paused,26.68,28,85.71%,68.29%,58.54%,22.50,1,0.00,26.05%,Exact match, --,41.46%
+TV screens,Enabled,[DISPATCH SOFTWARE],M7M2-OTHERS,e--c-dispatch software-Google,USD,Campaign paused,26.68,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[DISPATCH SOFTWARE],M7M2-OTHERS,e--c-dispatch software-Google,USD,Campaign paused,26.68,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[GPS FLEET TRACKING],M7M2-Fleet Size Booster,e--c-gps fleet tracking-Google,USD,Eligible, --,177,67.80%,37.90%,26.55%,481.63,9,2.00,12.34%,Exact match, --,34.29%
+TV screens,Enabled,[GPS FLEET TRACKING],M7M2-Fleet Size Booster,e--c-gps fleet tracking-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[GPS FLEET TRACKING],M7M2-Fleet Size Booster,e--c-gps fleet tracking-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[GPS FLEET TRACKING],M7M2-Fleet Size Booster,e--c-gps fleet tracking-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[GPS FLEET TRACKING],M7M2-Fleet Size Booster,e--c-gps fleet tracking-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled, +EQUIPMENT +TRACKER,M7M2-Fleet Size Booster,b--m-equipment tracker-Google,USD,Ad group paused, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +EQUIPMENT +TRACKER,M7M2-Fleet Size Booster,b--m-equipment tracker-Google,USD,Ad group paused, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +EQUIPMENT +TRACKER,M7M2-Fleet Size Booster,b--m-equipment tracker-Google,USD,Ad group paused, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +EQUIPMENT +TRACKER,M7M2-Fleet Size Booster,b--m-equipment tracker-Google,USD,Ad group paused, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +EQUIPMENT +TRACKER,M7M2-Fleet Size Booster,b--m-equipment tracker-Google,USD,Ad group paused, --,121,86.78%,61.11%,58.01%,117.08,11,0.00,34.32%,Broad match, --,2.21%
+Other,Enabled, +TRUCKER +DASH +CAMERA,M7M2-Fleet Size Booster,b--c-trucker dash camera-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +TRUCKER +DASH +CAMERA,M7M2-Fleet Size Booster,b--c-trucker dash camera-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +TRUCKER +DASH +CAMERA,M7M2-Fleet Size Booster,b--c-trucker dash camera-Google,USD,Eligible, --,63,87.30%,68.48%,63.22%,60.31,3,0.00,50.34%,Broad match, --,16.09%
+Tablets,Enabled, +TRUCKER +DASH +CAMERA,M7M2-Fleet Size Booster,b--c-trucker dash camera-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +TRUCKER +DASH +CAMERA,M7M2-Fleet Size Booster,b--c-trucker dash camera-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled,"""OMNITRACS""",M7M2-Fleet Size Booster,p--c-omnitracs-Google,USD,Rarely shown (low Quality Score), --,"1,080",88.39%,35.74%,32.56%,264.83,31,1.00,17.79%,Phrase match, --,25.84%
+Tablets,Enabled,"""OMNITRACS""",M7M2-Fleet Size Booster,p--c-omnitracs-Google,USD,Rarely shown (low Quality Score), --,24,83.33%,17.27%,14.39%,0.00,0,0.00, --,Phrase match, --,51.08%
+TV screens,Enabled,"""OMNITRACS""",M7M2-Fleet Size Booster,p--c-omnitracs-Google,USD,Rarely shown (low Quality Score), --,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""OMNITRACS""",M7M2-Fleet Size Booster,p--c-omnitracs-Google,USD,Rarely shown (low Quality Score), --,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""OMNITRACS""",M7M2-Fleet Size Booster,p--c-omnitracs-Google,USD,Rarely shown (low Quality Score), --,397,79.85%,14.17%,11.34%,121.53,9,1.00,< 10%,Phrase match, --,48.03%
+Other,Enabled,[FLEET DASH CAM],M7M2-Fleet Size Booster,e--c-fleet dash cam-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[FLEET DASH CAM],M7M2-Fleet Size Booster,e--c-fleet dash cam-Google,USD,Eligible, --,61,91.80%,66.30%,60.22%,304.80,7,3.00,40.77%,Exact match, --,16.13%
+Mobile phones,Enabled,[FLEET DASH CAM],M7M2-Fleet Size Booster,e--c-fleet dash cam-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[FLEET DASH CAM],M7M2-Fleet Size Booster,e--c-fleet dash cam-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[FLEET DASH CAM],M7M2-Fleet Size Booster,e--c-fleet dash cam-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled, +FLEET +ROUTING,M7M2-Fleet Size Booster,b--c-fleet routing-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +FLEET +ROUTING,M7M2-Fleet Size Booster,b--c-fleet routing-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +FLEET +ROUTING,M7M2-Fleet Size Booster,b--c-fleet routing-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +FLEET +ROUTING,M7M2-Fleet Size Booster,b--c-fleet routing-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +FLEET +ROUTING,M7M2-Fleet Size Booster,b--c-fleet routing-Google,USD,Eligible, --,26,73.08%,46.43%,33.93%,164.22,3,1.00,27.83%,Broad match, --,39.29%
+TV screens,Enabled, +DASHBOARD +CAMERA,M7M2-Fleet Size Booster,b--c-dashboard camera-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +DASHBOARD +CAMERA,M7M2-Fleet Size Booster,b--c-dashboard camera-Google,USD,Eligible, --,"19,609",84.03%,58.18%,51.56%,7474.48,559,24.00,36.95%,Broad match, --,10.15%
+Mobile phones,Enabled, +DASHBOARD +CAMERA,M7M2-Fleet Size Booster,b--c-dashboard camera-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DASHBOARD +CAMERA,M7M2-Fleet Size Booster,b--c-dashboard camera-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +DASHBOARD +CAMERA,M7M2-Fleet Size Booster,b--c-dashboard camera-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +DRIVER +TRACKER,M7M2-Fleet Size Booster,b--c-driver tracker-Google,USD,Eligible, --,555,87.57%,44.65%,39.26%,321.77,28,1.00,42.68%,Broad match, --,24.80%
+Tablets,Enabled, +DRIVER +TRACKER,M7M2-Fleet Size Booster,b--c-driver tracker-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +DRIVER +TRACKER,M7M2-Fleet Size Booster,b--c-driver tracker-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +DRIVER +TRACKER,M7M2-Fleet Size Booster,b--c-driver tracker-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +DRIVER +TRACKER,M7M2-Fleet Size Booster,b--c-driver tracker-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled,[DRIVER MONITORING SYSTEM],M7M2-Fleet Size Booster,e--m-driver monitoring system-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[DRIVER MONITORING SYSTEM],M7M2-Fleet Size Booster,e--m-driver monitoring system-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[DRIVER MONITORING SYSTEM],M7M2-Fleet Size Booster,e--m-driver monitoring system-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[DRIVER MONITORING SYSTEM],M7M2-Fleet Size Booster,e--m-driver monitoring system-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[DRIVER MONITORING SYSTEM],M7M2-Fleet Size Booster,e--m-driver monitoring system-Google,USD,Eligible, --,24,91.67%,96.00%,95.65%,17.11,3,0.00,70.67%,Exact match, --,0.00%
+Computers,Enabled,"""TRUCKER DASH CAM""",M7M2-Fleet Size Booster,p--c-trucker dash cam-Google,USD,Eligible, --,99,85.86%,83.90%,84.16%,116.14,5,1.00,46.00%,Phrase match, --,3.96%
+Mobile phones,Enabled,"""TRUCKER DASH CAM""",M7M2-Fleet Size Booster,p--c-trucker dash cam-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""TRUCKER DASH CAM""",M7M2-Fleet Size Booster,p--c-trucker dash cam-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Tablets,Enabled,"""TRUCKER DASH CAM""",M7M2-Fleet Size Booster,p--c-trucker dash cam-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""TRUCKER DASH CAM""",M7M2-Fleet Size Booster,p--c-trucker dash cam-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled, +GPS +EQUIPMENT +TRACKER,M7M2-Fleet Size Booster,b--c-gps equipment tracker-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +GPS +EQUIPMENT +TRACKER,M7M2-Fleet Size Booster,b--c-gps equipment tracker-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +GPS +EQUIPMENT +TRACKER,M7M2-Fleet Size Booster,b--c-gps equipment tracker-Google,USD,Eligible, --,"2,250",83.82%,68.39%,60.66%,741.31,62,0.00,23.47%,Broad match, --,5.56%
+Tablets,Enabled, +GPS +EQUIPMENT +TRACKER,M7M2-Fleet Size Booster,b--c-gps equipment tracker-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +GPS +EQUIPMENT +TRACKER,M7M2-Fleet Size Booster,b--c-gps equipment tracker-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +FLEET +TRACKING +DEVICE,M7M2-Fleet Size Booster,b--c-fleet tracking device-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +FLEET +TRACKING +DEVICE,M7M2-Fleet Size Booster,b--c-fleet tracking device-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +FLEET +TRACKING +DEVICE,M7M2-Fleet Size Booster,b--c-fleet tracking device-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +FLEET +TRACKING +DEVICE,M7M2-Fleet Size Booster,b--c-fleet tracking device-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +FLEET +TRACKING +DEVICE,M7M2-Fleet Size Booster,b--c-fleet tracking device-Google,USD,Eligible, --,302,69.87%,39.68%,27.98%,330.26,6,2.00,11.42%,Broad match, --,35.94%
+Other,Enabled,[TRAILER TRACKING SYSTEM],M7M2-Fleet Size Booster,e--c-trailer tracking system-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TRAILER TRACKING SYSTEM],M7M2-Fleet Size Booster,e--c-trailer tracking system-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[TRAILER TRACKING SYSTEM],M7M2-Fleet Size Booster,e--c-trailer tracking system-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[DISPATCH SOFTWARE],M7M2-OTHERS,e--c-dispatch software-Google,USD,Campaign paused,26.68,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled, +GPS +TRUCK +TRACKING,M7M2-TRUCK,b--c-gps truck tracking-Google,USD,Campaign paused,34.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +GPS +TRUCK +TRACKING,M7M2-TRUCK,b--c-gps truck tracking-Google,USD,Campaign paused,34.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +GPS +TRUCK +TRACKING,M7M2-TRUCK,b--c-gps truck tracking-Google,USD,Campaign paused,34.10,29,72.41%,74.36%,55.26%,53.41,2,0.00,32.83%,Broad match, --,44.74%
+Tablets,Enabled, +GPS +TRUCK +TRACKING,M7M2-TRUCK,b--c-gps truck tracking-Google,USD,Campaign paused,34.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +GPS +TRUCK +TRACKING,M7M2-TRUCK,b--c-gps truck tracking-Google,USD,Campaign paused,34.10,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +TRUCK +TRACKING,M7M2-TRUCK,b--c-truck tracking-Google,USD,Campaign paused,7.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +TRUCK +TRACKING,M7M2-TRUCK,b--c-truck tracking-Google,USD,Campaign paused,7.60,89,94.38%,53.61%,50.60%,33.68,6,1.00,37.48%,Broad match, --,49.40%
+Tablets,Enabled, +TRUCK +TRACKING,M7M2-TRUCK,b--c-truck tracking-Google,USD,Campaign paused,7.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +TRUCK +TRACKING,M7M2-TRUCK,b--c-truck tracking-Google,USD,Campaign paused,7.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +TRUCK +TRACKING,M7M2-TRUCK,b--c-truck tracking-Google,USD,Campaign paused,7.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +TRUCK +ROUTING,M7M2-TRUCK,b--c-truck routing-Bing,USD,Campaign paused,2.60,9,44.44%,25.71%,11.43%,2.26,1,0.00,16.97%,Broad match, --,88.57%
+Mobile phones,Enabled, +TRUCK +ROUTING,M7M2-TRUCK,b--c-truck routing-Bing,USD,Campaign paused,2.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +TRUCK +ROUTING,M7M2-TRUCK,b--c-truck routing-Bing,USD,Campaign paused,2.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +TRUCK +ROUTING,M7M2-TRUCK,b--c-truck routing-Bing,USD,Campaign paused,2.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +TRUCK +ROUTING,M7M2-TRUCK,b--c-truck routing-Bing,USD,Campaign paused,2.60,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +TRUCK +TRACKING,M7M2-TRUCK,b--m-truck tracking-Google,USD,Campaign paused,1.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +TRUCK +TRACKING,M7M2-TRUCK,b--m-truck tracking-Google,USD,Campaign paused,1.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +TRUCK +TRACKING,M7M2-TRUCK,b--m-truck tracking-Google,USD,Campaign paused,1.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +TRUCK +TRACKING,M7M2-TRUCK,b--m-truck tracking-Google,USD,Campaign paused,1.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +TRUCK +TRACKING,M7M2-TRUCK,b--m-truck tracking-Google,USD,Campaign paused,1.30,4,75.00%,< 10%,< 10%,0.87,1,0.00,< 10%,Broad match, --,> 90%
+Mobile phones,Enabled, +GPS +TRUCK +TRACKER,M7M2-TRUCK,b--m-gps truck tracker-Google,USD,Campaign paused,13.90,31,66.67%,60.00%,41.67%,1.33,1,0.00,31.77%,Broad match, --,58.33%
+Computers,Enabled, +GPS +TRUCK +TRACKER,M7M2-TRUCK,b--m-gps truck tracker-Google,USD,Campaign paused,13.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +GPS +TRUCK +TRACKER,M7M2-TRUCK,b--m-gps truck tracker-Google,USD,Campaign paused,13.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +GPS +TRUCK +TRACKER,M7M2-TRUCK,b--m-gps truck tracker-Google,USD,Campaign paused,13.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +GPS +TRUCK +TRACKER,M7M2-TRUCK,b--m-gps truck tracker-Google,USD,Campaign paused,13.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled,"""TRUCK DISPATCHING""",M7M2-TRUCK,p--m-truck dispatching-Google,USD,Campaign paused,15.20,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""TRUCK DISPATCHING""",M7M2-TRUCK,p--m-truck dispatching-Google,USD,Campaign paused,15.20,123,76.42%,62.76%,48.96%,46.49,7,0.00,42.24%,Phrase match, --,51.04%
+Other,Enabled,"""TRUCK DISPATCHING""",M7M2-TRUCK,p--m-truck dispatching-Google,USD,Campaign paused,15.20,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""TRUCK DISPATCHING""",M7M2-TRUCK,p--m-truck dispatching-Google,USD,Campaign paused,15.20,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Tablets,Enabled,"""TRUCK DISPATCHING""",M7M2-TRUCK,p--m-truck dispatching-Google,USD,Campaign paused,15.20,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled, +TRUCK +DISPATCHING +SOFTWARE,M7M2-TRUCK,b--c-truck dispatching software-Google,USD,Campaign paused,33.49,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +TRUCK +DISPATCHING +SOFTWARE,M7M2-TRUCK,b--c-truck dispatching software-Google,USD,Campaign paused,33.49,5,100.00%,100.00%,100.00%,33.44,1,1.00,44.86%,Broad match, --,0.00%
+Tablets,Enabled, +TRUCK +DISPATCHING +SOFTWARE,M7M2-TRUCK,b--c-truck dispatching software-Google,USD,Campaign paused,33.49,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +TRUCK +DISPATCHING +SOFTWARE,M7M2-TRUCK,b--c-truck dispatching software-Google,USD,Campaign paused,33.49,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +TRUCK +DISPATCHING +SOFTWARE,M7M2-TRUCK,b--c-truck dispatching software-Google,USD,Campaign paused,33.49,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled,"""TRUCK NAVIGATION""",M7M2-TRUCK,p--m-truck navigation-Google,USD,Campaign paused,2.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""TRUCK NAVIGATION""",M7M2-TRUCK,p--m-truck navigation-Google,USD,Campaign paused,2.60,54,87.04%,46.96%,43.93%,10.49,5,0.00,28.05%,Phrase match, --,56.07%
+TV screens,Enabled,"""TRUCK NAVIGATION""",M7M2-TRUCK,p--m-truck navigation-Google,USD,Campaign paused,2.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""TRUCK NAVIGATION""",M7M2-TRUCK,p--m-truck navigation-Google,USD,Campaign paused,2.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""TRUCK NAVIGATION""",M7M2-TRUCK,p--m-truck navigation-Google,USD,Campaign paused,2.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled, +TRUCK +DISPATCH,M7M2-TRUCK,b--m-truck dispatch-Google,USD,Campaign paused,9.56,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +TRUCK +DISPATCH,M7M2-TRUCK,b--m-truck dispatch-Google,USD,Campaign paused,9.56,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +TRUCK +DISPATCH,M7M2-TRUCK,b--m-truck dispatch-Google,USD,Campaign paused,9.56,159,81.17%,49.04%,40.72%,38.68,5,1.00,39.09%,Broad match, --,59.28%
+Computers,Enabled, +TRUCK +DISPATCH,M7M2-TRUCK,b--m-truck dispatch-Google,USD,Campaign paused,9.56,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +TRUCK +DISPATCH,M7M2-TRUCK,b--m-truck dispatch-Google,USD,Campaign paused,9.56,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled,"""TRUCK GPS APP""",M7M2-TRUCK,p--c-truck gps app-Google,USD,Campaign paused,8.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""TRUCK GPS APP""",M7M2-TRUCK,p--c-truck gps app-Google,USD,Campaign paused,8.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""TRUCK GPS APP""",M7M2-TRUCK,p--c-truck gps app-Google,USD,Campaign paused,8.70,31,93.55%,77.50%,72.50%,8.17,1,0.00,51.14%,Phrase match, --,27.50%
+TV screens,Enabled,"""TRUCK GPS APP""",M7M2-TRUCK,p--c-truck gps app-Google,USD,Campaign paused,8.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Tablets,Enabled,"""TRUCK GPS APP""",M7M2-TRUCK,p--c-truck gps app-Google,USD,Campaign paused,8.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled, +TRUCK +TRACKER,M7M2-TRUCK,b--m-truck tracker-Google,USD,Campaign paused,1.40,7,85.71%,11.29%,10.00%,1.70,2,0.00,20.30%,Broad match, --,90.00%
+TV screens,Enabled, +TRUCK +TRACKER,M7M2-TRUCK,b--m-truck tracker-Google,USD,Campaign paused,1.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +TRUCK +TRACKER,M7M2-TRUCK,b--m-truck tracker-Google,USD,Campaign paused,1.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +TRUCK +TRACKER,M7M2-TRUCK,b--m-truck tracker-Google,USD,Campaign paused,1.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +TRUCK +TRACKER,M7M2-TRUCK,b--m-truck tracker-Google,USD,Campaign paused,1.40,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled,"""TRUCK GPS SYSTEM""",M7M2-TRUCK,p--m-truck gps system-Google,USD,Campaign paused,11.40,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""TRUCK GPS SYSTEM""",M7M2-TRUCK,p--m-truck gps system-Google,USD,Campaign paused,11.40,346,88.15%,79.54%,80.26%,162.61,31,1.00,42.88%,Phrase match, --,19.74%
+Tablets,Enabled,"""TRUCK GPS SYSTEM""",M7M2-TRUCK,p--m-truck gps system-Google,USD,Campaign paused,11.40,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""TRUCK GPS SYSTEM""",M7M2-TRUCK,p--m-truck gps system-Google,USD,Campaign paused,11.40,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""TRUCK GPS SYSTEM""",M7M2-TRUCK,p--m-truck gps system-Google,USD,Campaign paused,11.40,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""TRUCK ROUTING""",M7M2-TRUCK,p--c-truck routing-Bing,USD,Campaign paused,8.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Tablets,Enabled,"""TRUCK ROUTING""",M7M2-TRUCK,p--c-truck routing-Bing,USD,Campaign paused,8.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""TRUCK ROUTING""",M7M2-TRUCK,p--c-truck routing-Bing,USD,Campaign paused,8.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""TRUCK ROUTING""",M7M2-TRUCK,p--c-truck routing-Bing,USD,Campaign paused,8.60,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""TRUCK ROUTING""",M7M2-TRUCK,p--c-truck routing-Bing,USD,Campaign paused,8.60,428,84.58%,66.67%,57.01%,152.45,25,0.00,59.58%,Phrase match, --,42.99%
+Other,Enabled,[TRUCK TRACKING DEVICE],M7M2-TRUCK,e--c-truck tracking device-Google,USD,Campaign paused,33.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[TRUCK TRACKING DEVICE],M7M2-TRUCK,e--c-truck tracking device-Google,USD,Campaign paused,33.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[TRUCK TRACKING DEVICE],M7M2-TRUCK,e--c-truck tracking device-Google,USD,Campaign paused,33.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TRUCK TRACKING DEVICE],M7M2-TRUCK,e--c-truck tracking device-Google,USD,Campaign paused,33.30,5,100.00%,71.43%,71.43%,24.28,1,0.00,52.89%,Exact match, --,28.57%
+Tablets,Enabled,[TRUCK TRACKING DEVICE],M7M2-TRUCK,e--c-truck tracking device-Google,USD,Campaign paused,33.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TRAILER TRACKING SYSTEM],M7M2-Fleet Size Booster,e--c-trailer tracking system-Google,USD,Eligible, --,146,73.97%,61.09%,46.55%,216.31,6,1.00,24.47%,Exact match, --,21.12%
+TV screens,Enabled,[TRAILER TRACKING SYSTEM],M7M2-Fleet Size Booster,e--c-trailer tracking system-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,"""LOJACK""",M7M2-Fleet Size Booster,p--c-lojack-Google,USD,Eligible, --,937,88.47%,33.96%,30.27%,276.60,19,0.00,30.76%,Phrase match, --,28.22%
+Other,Enabled,"""LOJACK""",M7M2-Fleet Size Booster,p--c-lojack-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""LOJACK""",M7M2-Fleet Size Booster,p--c-lojack-Google,USD,Eligible, --,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Tablets,Enabled,"""LOJACK""",M7M2-Fleet Size Booster,p--c-lojack-Google,USD,Eligible, --,75,80.00%,52.45%,41.38%,9.30,2,0.00,39.89%,Phrase match, --,29.66%
+Mobile phones,Enabled,"""LOJACK""",M7M2-Fleet Size Booster,p--c-lojack-Google,USD,Eligible, --,"1,050",94.38%,45.89%,44.76%,369.03,48,2.00,47.28%,Phrase match, --,5.24%
+TV screens,Enabled,[SKYBITZ],M7M2-Fleet Size Booster,e--c-skybitz-Google,USD,Rarely shown (low Quality Score), --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[SKYBITZ],M7M2-Fleet Size Booster,e--c-skybitz-Google,USD,Rarely shown (low Quality Score), --,2,100.00%,50.00%,50.00%,0.00,0,0.00, --,Exact match, --,25.00%
+Other,Enabled,[SKYBITZ],M7M2-Fleet Size Booster,e--c-skybitz-Google,USD,Rarely shown (low Quality Score), --,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[SKYBITZ],M7M2-Fleet Size Booster,e--c-skybitz-Google,USD,Rarely shown (low Quality Score), --,64,98.44%,53.33%,52.94%,11.11,3,0.00,52.20%,Exact match, --,21.85%
+Computers,Enabled,[SKYBITZ],M7M2-Fleet Size Booster,e--c-skybitz-Google,USD,Rarely shown (low Quality Score), --,57,87.72%,13.60%,11.88%,0.00,0,0.00, --,Exact match, --,47.98%
+Computers,Enabled, +TRUCK +DISPATCH,M7M2-TRUCK,b--c-truck dispatch-Bing,USD,Campaign paused,44.47,432,94.21%,94.53%,89.25%,508.38,24,0.00,83.94%,Broad match, --,10.75%
+Mobile phones,Enabled, +TRUCK +DISPATCH,M7M2-TRUCK,b--c-truck dispatch-Bing,USD,Campaign paused,44.47,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +TRUCK +DISPATCH,M7M2-TRUCK,b--c-truck dispatch-Bing,USD,Campaign paused,44.47,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +TRUCK +DISPATCH,M7M2-TRUCK,b--c-truck dispatch-Bing,USD,Campaign paused,44.47,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +TRUCK +DISPATCH,M7M2-TRUCK,b--c-truck dispatch-Bing,USD,Campaign paused,44.47,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled,[TRUCK ROUTING APP],M7M2-TRUCK,e--m-truck routing app-Google,USD,Campaign paused,3.60,31,93.55%,59.62%,55.77%,11.02,5,0.00,28.24%,Exact match, --,44.23%
+TV screens,Enabled,[TRUCK ROUTING APP],M7M2-TRUCK,e--m-truck routing app-Google,USD,Campaign paused,3.60,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TRUCK ROUTING APP],M7M2-TRUCK,e--m-truck routing app-Google,USD,Campaign paused,3.60,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TRUCK ROUTING APP],M7M2-TRUCK,e--m-truck routing app-Google,USD,Campaign paused,3.60,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TRUCK ROUTING APP],M7M2-TRUCK,e--m-truck routing app-Google,USD,Campaign paused,3.60,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TRUCK MANAGEMENT SOFTWARE],M7M2-TRUCK,e--c-truck management software-Google,USD,Campaign paused,35.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[TRUCK MANAGEMENT SOFTWARE],M7M2-TRUCK,e--c-truck management software-Google,USD,Campaign paused,35.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[TRUCK MANAGEMENT SOFTWARE],M7M2-TRUCK,e--c-truck management software-Google,USD,Campaign paused,35.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TRUCK MANAGEMENT SOFTWARE],M7M2-TRUCK,e--c-truck management software-Google,USD,Campaign paused,35.30,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TRUCK MANAGEMENT SOFTWARE],M7M2-TRUCK,e--c-truck management software-Google,USD,Campaign paused,35.30,30,83.33%,55.56%,46.30%,26.90,1,1.00,34.08%,Exact match, --,53.70%
+Other,Enabled,"""TRUCK TRACKER""",M7M2-TRUCK,p--m-truck tracker-Google,USD,Campaign paused,6.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""TRUCK TRACKER""",M7M2-TRUCK,p--m-truck tracker-Google,USD,Campaign paused,6.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""TRUCK TRACKER""",M7M2-TRUCK,p--m-truck tracker-Google,USD,Campaign paused,6.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""TRUCK TRACKER""",M7M2-TRUCK,p--m-truck tracker-Google,USD,Campaign paused,6.70,86,94.05%,67.74%,63.71%,26.81,13,0.00,56.46%,Phrase match, --,36.29%
+Tablets,Enabled,"""TRUCK TRACKER""",M7M2-TRUCK,p--m-truck tracker-Google,USD,Campaign paused,6.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""TRUCK DISPATCHING""",M7M2-TRUCK,p--c-truck dispatching-Google,USD,Campaign paused,10.70,28,75.00%,73.68%,55.26%,40.80,4,0.00,73.33%,Phrase match, --,44.74%
+Tablets,Enabled,"""TRUCK DISPATCHING""",M7M2-TRUCK,p--c-truck dispatching-Google,USD,Campaign paused,10.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""TRUCK DISPATCHING""",M7M2-TRUCK,p--c-truck dispatching-Google,USD,Campaign paused,10.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""TRUCK DISPATCHING""",M7M2-TRUCK,p--c-truck dispatching-Google,USD,Campaign paused,10.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""TRUCK DISPATCHING""",M7M2-TRUCK,p--c-truck dispatching-Google,USD,Campaign paused,10.70,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled, +VEHICLE +TRACKING +SYSTEM,M7M2-VEHICLE,b--c-vehicle tracking system-Bing,USD,Campaign paused,14.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +VEHICLE +TRACKING +SYSTEM,M7M2-VEHICLE,b--c-vehicle tracking system-Bing,USD,Campaign paused,14.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +VEHICLE +TRACKING +SYSTEM,M7M2-VEHICLE,b--c-vehicle tracking system-Bing,USD,Campaign paused,14.70,10,80.00%,41.67%,33.33%,14.31,1,0.00,30.91%,Broad match, --,66.67%
+Tablets,Enabled, +VEHICLE +TRACKING +SYSTEM,M7M2-VEHICLE,b--c-vehicle tracking system-Bing,USD,Campaign paused,14.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +VEHICLE +TRACKING +SYSTEM,M7M2-VEHICLE,b--c-vehicle tracking system-Bing,USD,Campaign paused,14.70,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled,[VEHICLE GPS TRACKING DEVICE],M7M2-VEHICLE,e--m-vehicle gps tracking device-Google,USD,Campaign paused,12.40,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[VEHICLE GPS TRACKING DEVICE],M7M2-VEHICLE,e--m-vehicle gps tracking device-Google,USD,Campaign paused,12.40,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[VEHICLE GPS TRACKING DEVICE],M7M2-VEHICLE,e--m-vehicle gps tracking device-Google,USD,Campaign paused,12.40,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[VEHICLE GPS TRACKING DEVICE],M7M2-VEHICLE,e--m-vehicle gps tracking device-Google,USD,Campaign paused,12.40,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[VEHICLE GPS TRACKING DEVICE],M7M2-VEHICLE,e--m-vehicle gps tracking device-Google,USD,Campaign paused,12.40,276,80.80%,57.14%,51.74%,119.71,15,0.00,27.72%,Exact match, --,48.26%
+Mobile phones,Enabled,[TELETRAC NAVMAN],M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[TELETRAC NAVMAN],M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TELETRAC NAVMAN],M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TELETRAC NAVMAN],M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,285,99.65%,95.64%,95.62%,45.40,48,2.00,84.42%,Exact match, --,4.38%
+Tablets,Enabled,[TELETRAC NAVMAN],M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,"""TELETRAC NAVMAN""",M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""TELETRAC NAVMAN""",M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Tablets,Enabled,"""TELETRAC NAVMAN""",M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""TELETRAC NAVMAN""",M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""TELETRAC NAVMAN""",M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,42,95.24%,100.00%,95.24%,23.16,10,0.00,92.58%,Phrase match, --,4.76%
+Computers,Enabled, +TELETRAC +NAVMAN,M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,44,93.18%,100.00%,93.18%,45.83,5,0.00,89.89%,Broad match, --,6.82%
+Other,Enabled, +TELETRAC +NAVMAN,M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +TELETRAC +NAVMAN,M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +TELETRAC +NAVMAN,M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +TELETRAC +NAVMAN,M7A-TIS-BRAND,TELETRAC NAVMAN-C,USD,Eligible,4.53,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +VEHICLE +TRACKING +AND,M7M2-VEHICLE,b--c-vehicle tracking and-Google,USD,Campaign paused,24.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +VEHICLE +TRACKING +AND,M7M2-VEHICLE,b--c-vehicle tracking and-Google,USD,Campaign paused,24.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +VEHICLE +TRACKING +AND,M7M2-VEHICLE,b--c-vehicle tracking and-Google,USD,Campaign paused,24.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +VEHICLE +TRACKING +AND,M7M2-VEHICLE,b--c-vehicle tracking and-Google,USD,Campaign paused,24.20,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +VEHICLE +TRACKING +AND,M7M2-VEHICLE,b--c-vehicle tracking and-Google,USD,Campaign paused,24.20,25,96.00%,78.13%,80.00%,40.33,2,0.00,51.90%,Broad match, --,20.00%
+Tablets,Enabled,[VEHICLE GPS TRACKING SYSTEM],M7M2-VEHICLE,e--m-vehicle gps tracking system-Bing,USD,Campaign paused,6.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[VEHICLE GPS TRACKING SYSTEM],M7M2-VEHICLE,e--m-vehicle gps tracking system-Bing,USD,Campaign paused,6.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[VEHICLE GPS TRACKING SYSTEM],M7M2-VEHICLE,e--m-vehicle gps tracking system-Bing,USD,Campaign paused,6.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[VEHICLE GPS TRACKING SYSTEM],M7M2-VEHICLE,e--m-vehicle gps tracking system-Bing,USD,Campaign paused,6.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[VEHICLE GPS TRACKING SYSTEM],M7M2-VEHICLE,e--m-vehicle gps tracking system-Bing,USD,Campaign paused,6.90,5,100.00%,31.25%,35.71%,6.62,1,0.00,15.70%,Exact match, --,64.29%
+Other,Enabled,"""VEHICLE TRACKING""",M7M2-VEHICLE,p--c-vehicle tracking-Google,USD,Campaign paused,19.40,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""VEHICLE TRACKING""",M7M2-VEHICLE,p--c-vehicle tracking-Google,USD,Campaign paused,19.40,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""VEHICLE TRACKING""",M7M2-VEHICLE,p--c-vehicle tracking-Google,USD,Campaign paused,19.40,518,80.31%,67.10%,54.45%,260.48,19,1.00,51.76%,Phrase match, --,45.55%
+Tablets,Enabled,"""VEHICLE TRACKING""",M7M2-VEHICLE,p--c-vehicle tracking-Google,USD,Campaign paused,19.40,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""VEHICLE TRACKING""",M7M2-VEHICLE,p--c-vehicle tracking-Google,USD,Campaign paused,19.40,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled, +VEHICLE +TRACKING,M7M2-VEHICLE,b--c-vehicle tracking-Google,USD,Campaign paused,17.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +VEHICLE +TRACKING,M7M2-VEHICLE,b--c-vehicle tracking-Google,USD,Campaign paused,17.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +VEHICLE +TRACKING,M7M2-VEHICLE,b--c-vehicle tracking-Google,USD,Campaign paused,17.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +VEHICLE +TRACKING,M7M2-VEHICLE,b--c-vehicle tracking-Google,USD,Campaign paused,17.80,582,78.58%,66.25%,53.15%,251.84,18,0.00,51.15%,Broad match, --,46.85%
+Tablets,Enabled, +VEHICLE +TRACKING,M7M2-VEHICLE,b--c-vehicle tracking-Google,USD,Campaign paused,17.80,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled,[VEHICLE TRACKING],M7M2-VEHICLE,e--c-vehicle tracking-Bing,USD,Campaign paused,31.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[VEHICLE TRACKING],M7M2-VEHICLE,e--c-vehicle tracking-Bing,USD,Campaign paused,31.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[VEHICLE TRACKING],M7M2-VEHICLE,e--c-vehicle tracking-Bing,USD,Campaign paused,31.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[VEHICLE TRACKING],M7M2-VEHICLE,e--c-vehicle tracking-Bing,USD,Campaign paused,31.80,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[VEHICLE TRACKING],M7M2-VEHICLE,e--c-vehicle tracking-Bing,USD,Campaign paused,31.80,298,85.23%,86.13%,77.68%,477.65,19,0.00,56.33%,Exact match, --,22.32%
+Mobile phones,Enabled, +VEHICLE +GPS +TRACKING +SYSTEM,M7M2-VEHICLE,b--t-vehicle gps tracking system-Google,USD,Campaign paused,8.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +VEHICLE +GPS +TRACKING +SYSTEM,M7M2-VEHICLE,b--t-vehicle gps tracking system-Google,USD,Campaign paused,8.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +VEHICLE +GPS +TRACKING +SYSTEM,M7M2-VEHICLE,b--t-vehicle gps tracking system-Google,USD,Campaign paused,8.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +VEHICLE +GPS +TRACKING +SYSTEM,M7M2-VEHICLE,b--t-vehicle gps tracking system-Google,USD,Campaign paused,8.30,25,76.00%,67.57%,54.29%,23.40,4,0.00,39.08%,Broad match, --,45.71%
+Other,Enabled, +VEHICLE +GPS +TRACKING +SYSTEM,M7M2-VEHICLE,b--t-vehicle gps tracking system-Google,USD,Campaign paused,8.30,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled,[TELETRAC GPS],M7A-TIS-BRAND,TELETRAC GPS-M,USD,Eligible,7.94,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TELETRAC GPS],M7A-TIS-BRAND,TELETRAC GPS-M,USD,Eligible,7.94,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TELETRAC GPS],M7A-TIS-BRAND,TELETRAC GPS-M,USD,Eligible,7.94,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[TELETRAC GPS],M7A-TIS-BRAND,TELETRAC GPS-M,USD,Eligible,7.94,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[TELETRAC GPS],M7A-TIS-BRAND,TELETRAC GPS-M,USD,Eligible,7.94,10,100.00%,100.00%,100.00%,24.66,4,0.00,94.54%,Exact match, --,0.00%
+TV screens,Enabled,[TELETRAC],M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TELETRAC],M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[TELETRAC],M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[TELETRAC],M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,39,100.00%,97.50%,97.50%,3.71,3,0.00,86.38%,Exact match, --,2.50%
+Tablets,Enabled,[TELETRAC],M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[VEHICLE TRACKING],M7M2-VEHICLE,e--m-vehicle tracking-Google,USD,Campaign paused,13.20,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[VEHICLE TRACKING],M7M2-VEHICLE,e--m-vehicle tracking-Google,USD,Campaign paused,13.20,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[VEHICLE TRACKING],M7M2-VEHICLE,e--m-vehicle tracking-Google,USD,Campaign paused,13.20,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[VEHICLE TRACKING],M7M2-VEHICLE,e--m-vehicle tracking-Google,USD,Campaign paused,13.20,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[VEHICLE TRACKING],M7M2-VEHICLE,e--m-vehicle tracking-Google,USD,Campaign paused,13.20,152,84.21%,54.29%,47.76%,17.13,3,0.00,20.99%,Exact match, --,52.24%
+Tablets,Enabled, +TELETRAC +NAVMAN,M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled,[TELETRAC NAVMAN],M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TELETRAC NAVMAN],M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[TELETRAC NAVMAN],M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,52,98.08%,91.23%,92.73%,2.29,11,0.00,84.03%,Exact match, --,7.27%
+TV screens,Enabled,[TELETRAC NAVMAN],M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TELETRAC NAVMAN],M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,4,100.00%,100.00%,100.00%,0.00,0,0.00, --,Exact match, --,0.00%
+Mobile phones,Enabled, +TELETRAC +NAVMAN,M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,10,100.00%,100.00%,100.00%,0.65,1,0.00,96.28%,Broad match, --,0.00%
+Computers,Enabled, +TELETRAC +NAVMAN,M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +TELETRAC +NAVMAN,M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +TELETRAC +NAVMAN,M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled,"""TELETRAC""",M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,"""TELETRAC NAVMAN""",M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""TELETRAC""",M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""TELETRAC NAVMAN""",M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""TELETRAC""",M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,38,94.74%,97.44%,92.31%,7.86,5,0.00,91.51%,Phrase match, --,7.69%
+TV screens,Enabled,"""TELETRAC""",M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""TELETRAC""",M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""TELETRAC NAVMAN""",M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""TELETRAC NAVMAN""",M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,4,100.00%,100.00%,100.00%,1.64,1,0.00,95.49%,Phrase match, --,0.00%
+Tablets,Enabled,"""TELETRAC NAVMAN""",M7A-TIS-BRAND,TELETRAC NAVMAN-M,USD,Eligible,1.90,3,100.00%,100.00%,100.00%,0.00,0,0.00, --,Phrase match, --,0.00%
+TV screens,Enabled, +TELETRAC,M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled, +TELETRAC,M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +TELETRAC,M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +TELETRAC,M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,293,95.22%,98.65%,94.90%,215.94,26,2.00,91.79%,Broad match, --,5.10%
+Tablets,Enabled, +TELETRAC,M7A-TIS-BRAND,TELETRAC-C,USD,Eligible,6.94,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+TV screens,Enabled, +VEHICLE +TRACKING,M7M2-VEHICLE,b--m-vehicle tracking-Google,USD,Campaign paused,8.00,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +VEHICLE +TRACKING,M7M2-VEHICLE,b--m-vehicle tracking-Google,USD,Campaign paused,8.00,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +VEHICLE +TRACKING,M7M2-VEHICLE,b--m-vehicle tracking-Google,USD,Campaign paused,8.00,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +VEHICLE +TRACKING,M7M2-VEHICLE,b--m-vehicle tracking-Google,USD,Campaign paused,8.00,547,84.51%,42.64%,37.50%,176.75,35,1.00,25.55%,Broad match, --,62.50%
+Other,Enabled, +VEHICLE +TRACKING,M7M2-VEHICLE,b--m-vehicle tracking-Google,USD,Campaign paused,8.00,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Other,Enabled,[VEHICLE GPS TRACKING DEVICE],M7M2-VEHICLE,e--c-vehicle gps tracking device-Bing,USD,Campaign paused,23.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[VEHICLE GPS TRACKING DEVICE],M7M2-VEHICLE,e--c-vehicle gps tracking device-Bing,USD,Campaign paused,23.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[VEHICLE GPS TRACKING DEVICE],M7M2-VEHICLE,e--c-vehicle gps tracking device-Bing,USD,Campaign paused,23.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[VEHICLE GPS TRACKING DEVICE],M7M2-VEHICLE,e--c-vehicle gps tracking device-Bing,USD,Campaign paused,23.50,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Computers,Enabled,[VEHICLE GPS TRACKING DEVICE],M7M2-VEHICLE,e--c-vehicle gps tracking device-Bing,USD,Campaign paused,23.50,83,86.75%,74.11%,67.29%,134.48,6,0.00,57.22%,Exact match, --,32.71%
+Computers,Enabled,[TELETRAC GPS],M7A-TIS-BRAND,TELETRAC GPS-C,USD,Eligible,18.90,12,100.00%,92.31%,92.31%,102.75,4,0.00,88.67%,Exact match, --,7.69%
+Mobile phones,Enabled,[TELETRAC GPS],M7A-TIS-BRAND,TELETRAC GPS-C,USD,Eligible,18.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled,[TELETRAC GPS],M7A-TIS-BRAND,TELETRAC GPS-C,USD,Eligible,18.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TELETRAC GPS],M7A-TIS-BRAND,TELETRAC GPS-C,USD,Eligible,18.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,[TELETRAC GPS],M7A-TIS-BRAND,TELETRAC GPS-C,USD,Eligible,18.90,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+TV screens,Enabled,"""TELETRAC GPS""",M7A-TIS-BRAND,TELETRAC GPS-C,USD,Eligible,18.90,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Computers,Enabled,"""TELETRAC GPS""",M7A-TIS-BRAND,TELETRAC GPS-C,USD,Eligible,18.90,1,100.00%,100.00%,100.00%,33.99,1,0.00,65.76%,Phrase match, --,0.00%
+Tablets,Enabled,"""TELETRAC GPS""",M7A-TIS-BRAND,TELETRAC GPS-C,USD,Eligible,18.90,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Mobile phones,Enabled,"""TELETRAC GPS""",M7A-TIS-BRAND,TELETRAC GPS-C,USD,Eligible,18.90,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""TELETRAC GPS""",M7A-TIS-BRAND,TELETRAC GPS-C,USD,Eligible,18.90,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+TV screens,Enabled,[TELETRAC],M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Mobile phones,Enabled,[TELETRAC],M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,49,97.96%,98.00%,96.00%,6.52,10,0.00,89.64%,Exact match, --,4.00%
+Computers,Enabled,[TELETRAC],M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Tablets,Enabled,[TELETRAC],M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,1,100.00%,100.00%,100.00%,0.00,0,0.00, --,Exact match, --,0.00%
+Other,Enabled,[TELETRAC],M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,0, --, --, --,0.00,0,0.00, --,Exact match, --, --
+Other,Enabled, +TELETRAC,M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Computers,Enabled, +TELETRAC,M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Mobile phones,Enabled, +TELETRAC,M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,33,93.75%,100.00%,100.00%,106.26,9,1.00,93.29%,Broad match, --,0.00%
+TV screens,Enabled, +TELETRAC,M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,0, --, --, --,0.00,0,0.00, --,Broad match, --, --
+Tablets,Enabled, +TELETRAC,M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,3,100.00%,100.00%,100.00%,0.00,0,0.00, --,Broad match, --,0.00%
+Mobile phones,Enabled,"""TELETRAC""",M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,111,94.59%,100.00%,95.45%,72.50,13,1.00,94.85%,Phrase match, --,4.55%
+Computers,Enabled,"""TELETRAC""",M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Tablets,Enabled,"""TELETRAC""",M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,8,75.00%,100.00%,100.00%,0.00,0,0.00, --,Phrase match, --,0.00%
+TV screens,Enabled,"""TELETRAC""",M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+Other,Enabled,"""TELETRAC""",M7A-TIS-BRAND,TELETRAC-M,USD,Eligible,2.91,0, --, --, --,0.00,0,0.00, --,Phrase match, --, --
+,Total: Filtered keywords,,,,USD,,,"43,665",83.39%,50.36%,43.72%,18950.07,"1,643",62.00,35.51%,,53.27%,33.11%
+Computers,Total: Filtered keywords,,,,USD,,,"38,399",82.83%,52.84%,45.59%,17035.92,"1,320",54.00,37.94%,, --,30.37%
+Mobile phones,Total: Filtered keywords,,,,USD,,,"5,117",87.69%,37.29%,33.94%,1879.82,316,8.00,27.89%,, --,47.58%
+Tablets,Total: Filtered keywords,,,,USD,,,149,81.88%,43.06%,35.47%,34.33,7,0.00,35.23%,, --,38.08%
+,Total: Search keywords on display network,,,,USD,,,0, --, --, --,0.00,0,0.00, --,, --, --
+Mobile phones,Total: Search keywords on display network,,,,USD,,,0, --, --, --,0.00,0,0.00, --,, --, --
+TV screens,Total: Search keywords on display network,,,,USD,,,0, --, --, --,0.00,0,0.00, --,, --, --
+Tablets,Total: Search keywords on display network,,,,USD,,,0, --, --, --,0.00,0,0.00, --,, --, --
+Other,Total: Search keywords on display network,,,,USD,,,0, --, --, --,0.00,0,0.00, --,, --, --
+Computers,Total: Search keywords on display network,,,,USD,,,0, --, --, --,0.00,0,0.00, --,, --, --
+,Total: Account,,,,USD,,,"748,252",83.10%,49.70%,42.96%,19496.92,"2,435",62.00,34.45%,,52.97%,34.78%
+Other,Total: Account,,,,USD,,,0, --, --, --,0.00,0,0.00, --,, --, --
+TV screens,Total: Account,,,,USD,,,119, --, --, --,1.83,0,0.00, --,, --, --
+Computers,Total: Account,,,,USD,,,"258,366",82.56%,52.52%,45.13%,17198.23,"1,365",54.00,37.40%,, --,31.53%
+Tablets,Total: Account,,,,USD,,,"32,230",82.22%,45.80%,38.05%,74.31,50,0.00,36.63%,, --,38.56%
+Mobile phones,Total: Account,,,,USD,,,"457,537",87.13%,35.64%,32.25%,2222.54,"1,020",8.00,25.87%,, --,50.95%
+,Total: Search,,,,USD,,,"44,945",83.10%,49.70%,42.96%,18950.07,"1,643",62.00,34.45%,,52.97%,34.78%
+,Total: Display,,,,USD,,,"701,716", --, --, --,491.51,788,0.00, --,, --, --
+,Total: Video,,,,USD,,,"1,591", --, --, --,55.34,4,0.00, --,, --, --
+Mobile phones,Total: Search,,,,USD,,,"5,386",87.13%,35.64%,32.25%,1879.82,316,8.00,25.87%,, --,50.95%
+Tablets,Total: Display,,,,USD,,,"31,738", --, --, --,25.73,43,0.00, --,, --, --
+TV screens,Total: Display,,,,USD,,,22, --, --, --,0.01,0,0.00, --,, --, --
+TV screens,Total: Video,,,,USD,,,97, --, --, --,1.82,0,0.00, --,, --, --
+Mobile phones,Total: Video,,,,USD,,,658, --, --, --,14.87,4,0.00, --,, --, --
+Other,Total: Search,,,,USD,,,0, --, --, --,0.00,0,0.00, --,, --, --
+Other,Total: Display,,,,USD,,,0, --, --, --,0.00,0,0.00, --,, --, --
+Other,Total: Video,,,,USD,,,0, --, --, --,0.00,0,0.00, --,, --, --
+Tablets,Total: Video,,,,USD,,,312, --, --, --,14.25,0,0.00, --,, --, --
+Computers,Total: Search,,,,USD,,,"39,379",82.56%,52.52%,45.13%,17035.92,"1,320",54.00,37.40%,, --,31.53%
+Mobile phones,Total: Display,,,,USD,,,"451,493", --, --, --,327.86,700,0.00, --,, --, --
+TV screens,Total: Search,,,,USD,,,0, --, --, --,0.00,0,0.00, --,, --, --
+Tablets,Total: Search,,,,USD,,,180,82.22%,45.80%,38.05%,34.33,7,0.00,36.63%,, --,38.56%
+Computers,Total: Display,,,,USD,,,"218,463", --, --, --,137.91,45,0.00, --,, --, --
+Computers,Total: Video,,,,USD,,,524, --, --, --,24.40,0,0.00, --,, --, --
